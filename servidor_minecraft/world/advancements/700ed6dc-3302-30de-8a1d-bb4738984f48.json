@@ -203,7 +203,9 @@
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
-      "diamond_chestplate": "2025-01-13 22:50:29 +0000"
+      "diamond_helmet": "2025-01-17 22:58:31 +0000",
+      "diamond_chestplate": "2025-01-13 22:50:29 +0000",
+      "diamond_boots": "2025-01-17 22:58:50 +0000"
     },
     "done": false
   },
@@ -8102,9 +8104,10 @@
   },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "has_netherite_ingot": "2025-01-14 15:44:48 +0000"
+      "has_netherite_ingot": "2025-01-14 15:44:48 +0000",
+      "has_the_recipe": "2025-01-17 22:59:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/combat/netherite_gloves_smithing": {
     "criteria": {
@@ -8192,9 +8195,10 @@
   },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
-      "has_netherite_ingot": "2025-01-14 15:44:48 +0000"
+      "has_netherite_ingot": "2025-01-14 15:44:48 +0000",
+      "has_the_recipe": "2025-01-17 22:59:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_plate_shield": {
     "criteria": {
@@ -10389,6 +10393,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:11:19 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-01-17 21:58:52 +0000"
@@ -10398,6 +10474,24 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-01-17 22:41:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-17 22:54:01 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
     },
     "done": false
   },
@@ -10434,6 +10528,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
     },
     "done": false
   },
@@ -10503,6 +10603,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
@@ -10515,11 +10621,23 @@
     },
     "done": false
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-17 23:09:06 +0000"
+    },
+    "done": true
+  },
   "crystalcraft_unlimited_java:celestial_hot_stuff": {
     "criteria": {
       "celestial_hot_stuff_0": "2025-01-17 22:33:07 +0000"
     },
     "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-01-17 22:58:31 +0000"
+    },
+    "done": false
   },
   "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
     "criteria": {
@@ -10532,6 +10650,12 @@
       "entered_nether": "2025-01-17 22:41:21 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
@@ -10587,6 +10711,12 @@
     },
     "done": false
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-01-17 22:58:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
@@ -10611,6 +10741,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
@@ -10626,6 +10762,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
     },
     "done": false
   },
@@ -10689,6 +10831,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
@@ -10700,6 +10848,18 @@
       "has_netherite_helmet": "2025-01-17 22:33:14 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-17 22:54:01 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
@@ -10725,9 +10885,21 @@
     },
     "done": false
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-17 22:59:31 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-01-17 22:59:29 +0000"
     },
     "done": false
   },
@@ -10775,6 +10947,18 @@
       "has_soul_crystal": "2025-01-17 22:13:22 +0000",
       "has_heart_of_the_deep": "2025-01-17 22:17:23 +0000",
       "has_sculk_bone": "2025-01-17 22:15:08 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-01-17 22:59:31 +0000"
     },
     "done": false
   },
@@ -10850,6 +11034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-17 22:54:01 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
@@ -10922,6 +11112,12 @@
     },
     "done": false
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-17 23:09:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-17 22:12:15 +0000"
@@ -10931,6 +11127,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
     },
     "done": false
   },

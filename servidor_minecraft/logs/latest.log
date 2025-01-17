@@ -2812,3 +2812,75 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 22:51:34.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [17Jan2025 22:51:52.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
 [17Jan2025 22:52:03.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 72.500000, 17.500000, 122.500000]
+[17Jan2025 22:52:09.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[17Jan2025 22:52:30.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5677ms or 113 ticks behind
+[17Jan2025 22:52:49.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3694ms or 73 ticks behind
+[17Jan2025 22:52:49.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 22:53:07.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
+[17Jan2025 22:53:24.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[17Jan2025 22:53:43.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3819ms or 76 ticks behind
+[17Jan2025 22:54:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Hidden in the Depths]
+[17Jan2025 22:54:01.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
+[17Jan2025 22:54:19.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[17Jan2025 22:54:35.458] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 22:54:37.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
+[17Jan2025 22:54:57.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1307.500000, -50.500000, -1065.500000]
+[17Jan2025 22:54:57.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[17Jan2025 22:55:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1336.500000, -23.500000, -1117.500000]
+[17Jan2025 22:55:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 22:55:15.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
+[17Jan2025 22:55:26.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1247.500000, -50.500000, -985.500000]
+[17Jan2025 22:55:48.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[17Jan2025 22:55:49.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[17Jan2025 22:56:00.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1210, y=-52, z=-981} BlockPos{x=1211, y=-53, z=-981}
+[17Jan2025 22:57:00.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1219, y=-49, z=-988} BlockPos{x=1219, y=-50, z=-988}
+[17Jan2025 22:57:00.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1219, y=-49, z=-988} BlockPos{x=1219, y=-50, z=-988}
+[17Jan2025 22:57:44.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 53.500000, 66.500000, 277.500000]
+[17Jan2025 22:57:45.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[17Jan2025 22:57:54.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 121.500000, 7.500000, 152.500000]
+[17Jan2025 22:58:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Blaze spawner:B:121:7:152:15:false:0:Internal-the-nether-waypoints
+[17Jan2025 22:58:17.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17Jan2025 22:58:30.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 22:58:34.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[17Jan2025 22:58:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[17Jan2025 22:58:57.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1193, y=-50, z=-984} BlockPos{x=1192, y=-52, z=-983}
+[17Jan2025 22:58:57.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1193, y=-50, z=-984} BlockPos{x=1192, y=-52, z=-983}
+[17Jan2025 22:58:57.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1193, y=-50, z=-984} BlockPos{x=1192, y=-52, z=-983}
+[17Jan2025 22:58:57.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1191, y=-52, z=-983} BlockPos{x=1192, y=-52, z=-983}
+[17Jan2025 22:59:14.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1203, y=-52, z=-975} BlockPos{x=1205, y=-53, z=-976}
+[17Jan2025 22:59:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has completed the challenge [Cover Me in Debris]
+[17Jan2025 23:00:41.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 23:01:16.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1236, y=-50, z=-955} BlockPos{x=1236, y=-51, z=-955}
+[17Jan2025 23:02:45.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 3430.500000, 75.500000, -5625.500000]
+[17Jan2025 23:02:58.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1237, y=-54, z=-945} BlockPos{x=1236, y=-55, z=-943}
+[17Jan2025 23:03:11.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1232, y=-52, z=-937} BlockPos{x=1231, y=-52, z=-937}
+[17Jan2025 23:03:11.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1232, y=-52, z=-937} BlockPos{x=1231, y=-52, z=-937}
+[17Jan2025 23:03:12.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1232, y=-52, z=-937} BlockPos{x=1231, y=-52, z=-937}
+[17Jan2025 23:03:20.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[17Jan2025 23:04:24.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1209, y=-50, z=-956} BlockPos{x=1211, y=-51, z=-956}
+[17Jan2025 23:06:17.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1301.500000, 0.500000, -1123.500000]
+[17Jan2025 23:06:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1336.500000, -23.500000, -1117.500000]
+[17Jan2025 23:06:55.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17Jan2025 23:07:14.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4115ms or 82 ticks behind
+[17Jan2025 23:07:18.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1308, y=-52, z=-988} BlockPos{x=1307, y=-53, z=-988}
+[17Jan2025 23:07:30.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1318, y=-51, z=-985} BlockPos{x=1318, y=-52, z=-986}
+[17Jan2025 23:07:33.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4258ms or 85 ticks behind
+[17Jan2025 23:07:36.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1325, y=-52, z=-988} BlockPos{x=1323, y=-51, z=-988}
+[17Jan2025 23:07:53.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5092ms or 101 ticks behind
+[17Jan2025 23:08:12.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
+[17Jan2025 23:08:32.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4828ms or 96 ticks behind
+[17Jan2025 23:08:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1336.500000, -23.500000, -1117.500000]
+[17Jan2025 23:08:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:portal end:P:-1337:-24:-1118:14:false:0:Internal-overworld-waypoints
+[17Jan2025 23:08:47.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1336.500000, -23.500000, -1117.500000]
+[17Jan2025 23:08:49.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[17Jan2025 23:08:51.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [The End?]
+[17Jan2025 23:08:53.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 1447.1925626110897,71.46415937495544,1117.7129911032805
+[17Jan2025 23:09:05.678] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=53, z=0}
+[17Jan2025 23:09:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [The End?]
+[17Jan2025 23:09:06.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
+[17Jan2025 23:10:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [A galaxy far far away...]
+[17Jan2025 23:10:10.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 23:10:30.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 10.500000, 37.500000, -127.500000]
+[17Jan2025 23:11:02.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 11.500000, 51.500000, 36.500000]
+[17Jan2025 23:12:17.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 23:12:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 30.500000, 43.500000, -152.500000]

@@ -2309,6 +2309,7 @@
       "minecraft:enderman": "2024-12-24 03:01:47 +0000",
       "minecraft:silverfish": "2024-12-26 15:45:45 +0000",
       "minecraft:stray": "2025-01-17 21:44:06 +0000",
+      "minecraft:endermite": "2025-01-17 23:10:17 +0000",
       "minecraft:vex": "2024-12-29 04:06:02 +0000",
       "minecraft:zombie": "2024-12-24 00:08:52 +0000",
       "minecraft:drowned": "2024-12-24 05:20:37 +0000",
@@ -2348,6 +2349,7 @@
       "minecraft:enderman": "2024-12-28 23:09:54 +0000",
       "minecraft:silverfish": "2024-12-31 03:26:52 +0000",
       "minecraft:stray": "2025-01-17 21:44:06 +0000",
+      "minecraft:endermite": "2025-01-17 23:10:17 +0000",
       "minecraft:vex": "2024-12-29 04:06:02 +0000",
       "minecraft:zombie": "2024-12-24 00:08:52 +0000",
       "minecraft:drowned": "2024-12-30 00:17:43 +0000",
@@ -3405,6 +3407,7 @@
   },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
+      "has_sticky_piston": "2025-01-17 23:05:27 +0000",
       "has_gunpowder": "2024-12-28 03:05:45 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000"
     },
@@ -3988,6 +3991,7 @@
   },
   "cfm:recipes/decorations/black_grill": {
     "criteria": {
+      "has_terracotta": "2025-01-17 22:55:46 +0000",
       "has_iron": "2024-12-24 00:21:11 +0000"
     },
     "done": false
@@ -5706,7 +5710,8 @@
   "cfm:recipes/decorations/black_kitchen_sink": {
     "criteria": {
       "has_concrete": "2024-12-31 22:45:12 +0000",
-      "has_bucket": "2024-12-24 00:35:37 +0000"
+      "has_bucket": "2024-12-24 00:35:37 +0000",
+      "has_top": "2025-01-17 22:55:46 +0000"
     },
     "done": false
   },
@@ -6214,7 +6219,8 @@
   },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
-      "has_chest": "2024-12-24 00:36:37 +0000"
+      "has_chest": "2024-12-24 00:36:37 +0000",
+      "has_terracotta": "2025-01-17 22:55:46 +0000"
     },
     "done": false
   },
@@ -12540,6 +12546,7 @@
   },
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
+      "has_end_stone": "2025-01-17 23:09:16 +0000",
       "has_shroomlight": "2024-12-30 01:33:18 +0000"
     },
     "done": false
@@ -13551,7 +13558,8 @@
   },
   "supplementaries:recipes/safe": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
+      "has_netherite_ingot": "2024-12-31 03:25:01 +0000",
+      "minecraft:shulker_boxes": "2025-01-17 23:09:42 +0000"
     },
     "done": false
   },
@@ -17520,6 +17528,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:16 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2025-01-17 18:10:52 +0000"
@@ -17661,6 +17675,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:16 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-01-17 21:38:52 +0000"
@@ -17683,6 +17703,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-01-17 22:55:04 +0000"
     },
     "done": false
   },
@@ -17722,6 +17748,12 @@
       "has_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-17 23:08:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
@@ -17798,6 +17830,12 @@
   "mcwbridges:recipes/crimson_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:16 +0000"
     },
     "done": false
   },
@@ -18031,6 +18069,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-17 21:44:45 +0000"
@@ -18108,6 +18152,12 @@
       "killed": "2025-01-17 18:08:50 +0000"
     },
     "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:16 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/redstone/bloom_fence_gate": {
     "criteria": {
@@ -18199,6 +18249,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-17 23:07:16 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -18232,6 +18288,12 @@
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_javelin_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-01-17 23:05:27 +0000"
     },
     "done": false
   },
@@ -18287,6 +18349,12 @@
     "criteria": {
       "has_log": "2025-01-17 19:11:36 +0000",
       "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-01-17 22:55:46 +0000"
     },
     "done": false
   },
@@ -18557,6 +18625,12 @@
     },
     "done": false
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-17 23:08:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-17 19:11:39 +0000"
@@ -18591,6 +18665,12 @@
   "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
       "has_item": "2025-01-17 21:17:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:16 +0000"
     },
     "done": false
   },

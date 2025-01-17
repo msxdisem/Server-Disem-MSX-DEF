@@ -352,6 +352,7 @@
       "bread": "2024-12-30 03:07:56 +0000",
       "rotten_flesh": "2024-12-30 02:04:25 +0000",
       "dried_kelp": "2024-12-30 02:30:27 +0000",
+      "salmon": "2025-01-17 22:53:56 +0000",
       "golden_carrot": "2025-01-14 00:11:54 +0000",
       "enchanted_golden_apple": "2025-01-04 03:08:40 +0000",
       "carrot": "2024-12-30 01:36:26 +0000"
@@ -7077,9 +7078,10 @@
   },
   "morebows:recipes/diamond_bow": {
     "criteria": {
-      "has_bow": "2024-12-30 00:07:00 +0000"
+      "has_bow": "2024-12-30 00:07:00 +0000",
+      "has_the_recipe": "2025-01-17 22:54:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
@@ -13296,6 +13298,12 @@
       "has_cobbled_gloomslate": "2025-01-17 21:01:22 +0000"
     },
     "done": false
+  },
+  "crystalcraft_unlimited_java:cyber_crystal_advancement": {
+    "criteria": {
+      "cyber_crystal_advancement_0": "2025-01-17 23:10:09 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
     "criteria": {
