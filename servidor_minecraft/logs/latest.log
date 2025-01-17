@@ -773,3 +773,262 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 17:48:59.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 803.500000, 120.500000, -199.500000]
 [17Jan2025 17:50:52.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
 [17Jan2025 17:53:58.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1057.500000, 119.500000, -149.500000]
+[17Jan2025 18:03:21.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.84.150.45:61488] logged in with entity id 6478 at (648.9007485982067, 108.0, -321.8538116745801)
+[17Jan2025 18:03:21.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[17Jan2025 18:03:21.795] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 18:03:21.796] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 18:03:21.796] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 18:03:21.800] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[17Jan2025 18:03:24.400] [Netty Epoll Server IO #3/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[17Jan2025 18:03:24.424] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[17Jan2025 18:03:24.427] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[17Jan2025 18:03:27.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made antiqueito a server operator]
+[17Jan2025 18:04:03.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 18:06:03.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 7490.500000, -6.500000, -11860.500000]
+[17Jan2025 18:06:09.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 18:06:10.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Opposites Attract]
+[17Jan2025 18:07:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 18:08:43.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 18:08:50.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Publicity Stunt]
+[17Jan2025 18:10:52.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Forged in Flame]
+[17Jan2025 18:12:35.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Magnetron No More]
+[17Jan2025 18:13:47.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 18:14:23.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 18:16:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 7505.500000, 84.500000, -11858.500000]
+[17Jan2025 18:16:35.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 18:16:37.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 7490.500000, -6.500000, -11860.500000]
+[17Jan2025 18:17:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [+PARRY]
+[17Jan2025 18:18:13.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 18:18:19.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Black or White]
+[17Jan2025 18:21:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 53.500000, 66.500000, 277.500000]
+[17Jan2025 18:22:10.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[17Jan2025 18:22:38.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the weather to clear]
+[17Jan2025 18:23:13.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 584.500000, 100.500000, -499.500000]
+[17Jan2025 18:23:18.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 546.500000, 95.500000, -556.500000]
+[17Jan2025 18:23:18.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17Jan2025 18:23:41.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7742ms or 154 ticks behind
+[17Jan2025 18:24:10.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14394ms or 287 ticks behind
+[17Jan2025 18:24:24.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito moved wrongly!
+[17Jan2025 18:24:27.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito moved wrongly!
+[17Jan2025 18:24:47.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22056ms or 441 ticks behind
+[17Jan2025 18:25:07.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 121.500000, 7.500000, 152.500000]
+[17Jan2025 18:25:13.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10793ms or 215 ticks behind
+[17Jan2025 18:26:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 77.500000, 73.500000, -302.500000]
+[17Jan2025 18:28:53.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -9.522034377203681,-0.11715734461792238,3.42848742759719
+[17Jan2025 18:28:53.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -10.742196269862461,-0.1269734771362181,4.203554505832074
+[17Jan2025 18:28:53.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -11.934147334254703,-0.13563130601734485,5.030928661382234
+[17Jan2025 18:28:53.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -13.143111676879698,-0.1432675110904995,5.849350110329567
+[17Jan2025 18:28:53.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -14.367081730905738,-0.15000264396502416,6.659875272053171
+[17Jan2025 18:28:58.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 87.53255312390479,0.07061718881655565,21.633717409421934
+[17Jan2025 18:28:58.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 87.53255312390479,0.07061718881655565,21.633717409421934
+[17Jan2025 18:28:58.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 87.53255312390479,0.07061718881655565,21.633717409421934
+[17Jan2025 18:28:58.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 87.53255312390479,0.07061718881655565,21.633717409421934
+[17Jan2025 18:28:58.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 87.53255312390479,0.07061718881655565,21.633717409421934
+[17Jan2025 18:28:58.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 86.1809845091941,0.07061718881655565,22.07767969730196
+[17Jan2025 18:28:58.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 84.81717822791256,0.07061718881655565,22.52611182682682
+[17Jan2025 18:28:58.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 83.44323253987864,0.07061718881655565,22.980425395135853
+[17Jan2025 18:28:58.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 82.06088071659906,0.07061718881655565,23.441465674680614
+[17Jan2025 18:28:58.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 80.67152343577868,0.07061718881655565,23.90958201374758
+[17Jan2025 18:28:58.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 79.27605818946904,0.07061718881655565,24.384135118559698
+[17Jan2025 18:28:58.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 77.87541362555294,0.07061718881655565,24.86493572859746
+[17Jan2025 18:28:58.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 76.4703385671894,0.07061718881655565,25.351621008415634
+[17Jan2025 18:28:58.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 75.06142797618031,0.07061718881655565,25.8436917684308
+[17Jan2025 18:28:58.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 73.64913444537797,0.07061718881655565,26.34051252197969
+[17Jan2025 18:28:58.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 72.23392954077349,0.07061718881655565,26.841717890411417
+[17Jan2025 18:28:58.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 70.81615680447567,0.07061718881655565,27.346790489169848
+[17Jan2025 18:28:59.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 69.3961192406241,0.07061718881655565,27.85527398507645
+[17Jan2025 18:28:59.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 67.97408409887043,0.07061718881655565,28.366765892267722
+[17Jan2025 18:28:59.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 66.55028709340695,0.07061718881655565,28.880911218212077
+[17Jan2025 18:28:59.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 65.16098368087455,0.07061718881655565,29.461841541778085
+[17Jan2025 18:28:59.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 63.806936065470836,0.07061718881655565,30.106553519396357
+[17Jan2025 18:28:59.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 62.48729636762596,0.07061718881655565,30.810663118970012
+[17Jan2025 18:28:59.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 61.1981604024852,0.07061718881655565,31.567305565986715
+[17Jan2025 18:28:59.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 60.061142481230945,0.07061718881655565,32.234664204255466
+[17Jan2025 18:28:59.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 59.05829267468471,0.07061718881655565,32.82327452320851
+[17Jan2025 18:28:59.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 58.173779145310846,0.07061718881655565,33.342428824525086
+[17Jan2025 18:28:59.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 57.393638212403175,0.07061718881655565,33.80032291828633
+[17Jan2025 18:28:59.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 56.70555390957861,0.07061718881655565,34.2041855089837
+[17Jan2025 18:28:59.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 55.93643778482124,0.07061718881655565,34.640418994843856
+[17Jan2025 18:28:59.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 55.09585159311882,0.07061718881655565,35.10520361023754
+[17Jan2025 18:28:59.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 54.19222880237112,0.07061718881655565,35.595170321879834
+[17Jan2025 18:28:59.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 53.23300773126539,0.07061718881655565,36.1073476424134
+[17Jan2025 18:28:59.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 52.22474897688403,0.07061718881655565,36.63911471998904
+[17Jan2025 18:28:59.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 51.17323898585346,0.07061718881655565,37.18815996327584
+[17Jan2025 18:28:59.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 50.08358140409814,0.07061718881655565,37.752444548719836
+[17Jan2025 18:28:59.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 48.96036982204282,0.07061718881655565,38.3303568152441
+[17Jan2025 18:29:00.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 47.807563611723026,0.07061718881655565,38.92028869648124
+[17Jan2025 18:29:00.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 46.79078853422084,0.07061718881655565,39.440608615732344
+[17Jan2025 18:29:00.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 45.89399291586392,0.07061718881655565,39.89953078451185
+[17Jan2025 18:29:00.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 45.10301918047321,0.07061718881655565,40.30430013737538
+[17Jan2025 18:29:00.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 44.405380345858475,0.07061718881655565,40.66130670660101
+[17Jan2025 18:29:00.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 43.79006289372842,0.07061718881655565,40.976186500658
+[17Jan2025 18:29:00.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 43.247352900949636,0.07061718881655565,41.25391047901627
+[17Jan2025 18:29:00.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 42.60654909237155,0.07061718881655565,41.57907629009094
+[17Jan2025 18:29:00.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 41.879226538258536,0.07061718881655565,41.94608579762149
+[17Jan2025 18:29:00.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 41.07559445058382,0.07061718881655565,42.35000144542613
+[17Jan2025 18:29:00.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 40.20465735430753,0.07061718881655565,42.78646830895252
+[17Jan2025 18:29:00.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 39.274357240444715,0.07061718881655565,43.25164534474544
+[17Jan2025 18:29:00.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 38.29169894507049,0.07061718881655565,43.742144752477486
+[17Jan2025 18:29:00.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 37.26286073360325,0.07061718881655565,44.25497849225985
+[17Jan2025 18:29:00.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 36.19329183614195,0.07061718881655565,44.78751111291058
+[17Jan2025 18:29:00.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 35.08779847363394,0.07061718881655565,45.33741814648721
+[17Jan2025 18:29:00.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 33.95061973295469,0.07061718881655565,45.90264941226445
+[17Jan2025 18:29:00.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 32.785494488728546,0.07061718881655565,46.48139665084267
+[17Jan2025 18:29:00.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 31.595720428373852,0.07061718881655565,47.07206497743135
+[17Jan2025 18:29:00.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 30.546339707140987,0.07061718881655565,47.59303444148259
+[17Jan2025 18:29:01.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 29.620785911013627,0.07061718881655565,48.05252950877576
+[17Jan2025 18:29:01.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 28.80444746282933,0.07061718881655565,48.45780415812834
+[17Jan2025 18:29:01.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 28.084436951530733,0.07061718881655565,48.81525639885734
+[17Jan2025 18:29:01.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 27.44938768056545,0.07061718881655565,49.13052927518032
+[17Jan2025 18:29:01.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 26.88927422357392,0.07061718881655565,49.40859995209718
+[17Jan2025 18:29:01.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 26.395254154507484,0.07061718881655565,49.653858289137816
+[17Jan2025 18:29:01.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 25.959528453590792,0.07061718881655565,49.87017614240767
+[17Jan2025 18:29:01.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 25.575218385382414,0.07061718881655565,50.060968488991705
+[17Jan2025 18:29:01.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 25.23625690522249,0.07061718881655565,50.22924733867882
+[17Jan2025 18:29:01.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 24.937292879721554,0.07061718881655565,50.377669284102865
+[17Jan2025 18:29:01.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 24.673606609229637,0.07061718881655565,50.50857743996687
+[17Jan2025 18:29:01.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 24.44103531865585,0.07061718881655565,50.6240384334389
+[17Jan2025 18:29:01.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 24.23590744036983,0.07061718881655565,50.72587502968122
+[17Jan2025 18:29:01.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 24.054984651721497,0.07061718881655565,50.81569490756698
+[17Jan2025 18:29:01.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.895410752133557,0.07061718881655565,50.89491603986221
+[17Jan2025 18:29:01.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.754666572697033,0.07061718881655565,50.96478907854657
+[17Jan2025 18:29:01.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.63053020643406,0.07061718881655565,51.02641709866623
+[17Jan2025 18:29:01.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.521041931390073,0.07061718881655565,51.080773012411726
+[17Jan2025 18:29:01.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.42447327280138,0.07061718881655565,51.128714928335285
+[17Jan2025 18:29:01.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.339299715926018,0.07061718881655565,51.170999698179855
+[17Jan2025 18:29:02.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.26417663876191,0.07061718881655565,51.20829486518278
+[17Jan2025 18:29:02.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.19791808470336,0.07061718881655565,51.24118920247935
+[17Jan2025 18:29:02.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.139478040023732,0.07061718881655565,51.270202007974945
+[17Jan2025 18:29:02.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.08793392061625,0.07061718881655565,51.29579130242206
+[17Jan2025 18:29:02.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.042472007298784,0.07061718881655565,51.3183610601244
+[17Jan2025 18:29:02.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 23.002374599752784,0.07061718881655565,51.338267586417885
+[17Jan2025 18:29:02.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.967008686297277,0.07061718881655565,51.355825142608694
+[17Jan2025 18:29:02.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.935815950629376,0.07061718881655565,51.371310907169004
+[17Jan2025 18:29:02.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.908303957770386,0.07061718881655565,51.38496935151119
+[17Jan2025 18:29:02.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.88403838006866,0.07061718881655565,51.39701609942102
+[17Jan2025 18:29:02.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.86263614053587,0.07061718881655565,51.40764133107746
+[17Jan2025 18:29:02.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.843759365267942,0.07061718881655565,51.41701278539847
+[17Jan2025 18:29:02.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.82711004948169,0.07061718881655565,51.42527840810959
+[17Jan2025 18:29:02.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.812425352958144,0.07061718881655565,51.43256868734079
+[17Jan2025 18:29:02.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.79947345062442,0.07061718881655565,51.43899871362271
+[17Jan2025 18:29:02.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.788049872766123,0.07061718881655565,51.444669996803384
+[17Jan2025 18:29:02.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.777974277094927,0.07061718881655565,51.4496720685687
+[17Jan2025 18:29:02.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.769087601712954,0.07061718881655565,51.45408389586572
+[17Jan2025 18:29:02.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.761249554026108,0.07061718881655565,51.457975127541715
+[17Jan2025 18:29:02.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.75433639596622,0.07061718881655565,51.46140719387995
+[17Jan2025 18:29:03.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.74823899055741,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.742861078986834,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.738117760981595,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.733934154500957,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.730244213585138,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:03.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:04.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:04.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:04.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:04.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:04.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:04.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:04.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 22.72698968569739,0.07061718881655565,51.46443427639025
+[17Jan2025 18:29:59.689] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1852, y=25, z=387}
+[17Jan2025 18:30:19.301] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22267, l='ServerLevel[world]', x=-1704.64, y=89.01, z=529.16]
+[17Jan2025 18:30:19.302] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22268, l='ServerLevel[world]', x=-1704.67, y=88.64, z=530.15]
+[17Jan2025 18:30:19.302] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22269, l='ServerLevel[world]', x=-1704.69, y=88.39, z=531.02]
+[17Jan2025 18:30:19.303] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/22270, l='ServerLevel[world]', x=-1704.72, y=88.14, z=532.13]
+[17Jan2025 18:31:59.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 0.258982197153955
+[17Jan2025 18:31:59.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 0.5978064212149548
+[17Jan2025 18:31:59.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 0.9870200518216166
+[17Jan2025 18:31:59.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 1.420681306217432
+[17Jan2025 18:31:59.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 1.8935533434234912
+[17Jan2025 18:31:59.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 2.401023533997602
+[17Jan2025 18:31:59.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 2.9389985516491492
+[17Jan2025 18:31:59.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 3.494597471808845
+[17Jan2025 18:31:59.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 3.9846357193897006
+[17Jan2025 18:31:59.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 4.416849453756015
+[17Jan2025 18:31:59.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved wrongly! 4.798061967467106
+[17Jan2025 18:33:55.785] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1907, y=-13, z=726}
+[17Jan2025 18:33:59.330] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 18:34:16.643] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2067, y=-18, z=618}
+[17Jan2025 18:34:16.683] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2077, y=10, z=596}
+[17Jan2025 18:34:16.683] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2076, y=10, z=596}
+[17Jan2025 18:34:45.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:54746] logged in with entity id 26486 at (665.7594604975137, 108.0, -340.03129935107927)
+[17Jan2025 18:34:45.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[17Jan2025 18:34:45.057] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 18:34:45.057] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 18:34:45.057] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 18:34:45.059] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[17Jan2025 18:34:46.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 1.5640326003365317,0.0,-10.263445198221746
+[17Jan2025 18:34:46.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 1.6537941778319691,0.0,-10.916937638118782
+[17Jan2025 18:34:46.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 1.6431851737156649,0.0,-11.650356984556709
+[17Jan2025 18:34:46.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 1.5440493166179294,0.0,-12.454271862563758
+[17Jan2025 18:34:46.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 1.3668327751904599,0.0,-13.320363799414736
+[17Jan2025 18:34:46.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 1.1207490701842744,0.0,-14.24129590216603
+[17Jan2025 18:34:46.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 0.813924526901701,0.0,-15.210597031241434
+[17Jan2025 18:34:46.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 0.4531804966538857,0.0,-16.222361286369562
+[17Jan2025 18:34:46.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! 0.04346968765321435,0.0,-17.27075944377316
+[17Jan2025 18:34:46.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -0.410131939484927,0.0,-18.351054655310065
+[17Jan2025 18:34:46.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -0.9024452682206174,0.0,-19.45948306859259
+[17Jan2025 18:34:46.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -1.428902317765278,0.0,-20.592724965814796
+[17Jan2025 18:34:46.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -1.9861743722854044,0.0,-21.747435159874613
+[17Jan2025 18:34:46.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -4.03306583878998,0.0,-13.398449294975023
+[17Jan2025 18:34:46.169] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[17Jan2025 18:34:46.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -4.6423442186696775,0.0,-14.588280472675365
+[17Jan2025 18:34:46.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pichuleire 2 (vehicle of antiqueito) moved too quickly! -5.2747540304931135,0.0,-15.791631923402292
+[17Jan2025 18:35:10.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 252.500000, 113.500000, 133.500000]
+[17Jan2025 18:35:12.002] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-135, 20], pos: MutableBlockPos{x=-2160, y=-6, z=322}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[17Jan2025 18:35:17.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17Jan2025 18:35:41.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9609ms or 192 ticks behind
+[17Jan2025 18:35:57.581] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2111, y=-5, z=113}
+[17Jan2025 18:36:05.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8560ms or 171 ticks behind
+[17Jan2025 18:36:29.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9315ms or 186 ticks behind
+[17Jan2025 18:36:32.487] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest]] from pos BlockPos{x=-2389, y=67, z=69}
+[17Jan2025 18:36:55.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10812ms or 216 ticks behind
+[17Jan2025 18:37:22.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12239ms or 244 ticks behind
+[17Jan2025 18:37:25.077] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jan2025 18:37:44.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6915ms or 138 ticks behind
+[17Jan2025 18:38:06.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7499ms or 149 ticks behind
+[17Jan2025 18:38:29.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7651ms or 153 ticks behind
+[17Jan2025 18:38:55.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11180ms or 223 ticks behind
+[17Jan2025 18:39:19.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8784ms or 175 ticks behind
+[17Jan2025 18:39:43.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8836ms or 176 ticks behind
+[17Jan2025 18:40:04.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6467ms or 129 ticks behind
+[17Jan2025 18:40:24.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[17Jan2025 18:40:25.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 1000]
+[17Jan2025 18:40:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[17Jan2025 18:40:41.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[17Jan2025 18:40:46.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[17Jan2025 18:41:00.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
+[17Jan2025 18:41:05.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Timed out
+[17Jan2025 18:41:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[17Jan2025 18:41:05.162] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[17Jan2025 18:41:14.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[17Jan2025 18:41:18.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.84.150.45:61767] logged in with entity id 35298 at (-2675.8564453125, 99.56811213493347, -251.7109832763672)
+[17Jan2025 18:41:19.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[17Jan2025 18:41:19.020] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 18:41:19.020] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 18:41:19.020] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 18:41:19.022] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[17Jan2025 18:41:19.984] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[17Jan2025 18:41:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito burned to death
+[17Jan2025 18:41:27.541] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[17Jan2025 18:41:29.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito moved too quickly! 0.0,-23.405843489786093,0.0
+[17Jan2025 18:41:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 18:41:34.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2675.500000, 79.500000, -251.500000]
+[17Jan2025 18:41:36.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[17Jan2025 18:41:43.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[17Jan2025 18:41:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO burned to death
+[17Jan2025 18:41:49.344] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[17Jan2025 18:41:52.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -2686.500000, 75.500000, -215.500000]

@@ -115,6 +115,7 @@
       "minecraft:sunflower_plains": "2024-12-29 03:44:24 +0000",
       "minecraft:birch_forest": "2024-12-24 00:31:43 +0000",
       "minecraft:bamboo_jungle": "2025-01-07 18:23:47 +0000",
+      "minecraft:wooded_badlands": "2025-01-17 18:34:51 +0000",
       "minecraft:savanna_plateau": "2025-01-07 20:02:55 +0000",
       "minecraft:beach": "2024-12-24 00:31:15 +0000",
       "minecraft:dark_forest": "2024-12-24 00:35:02 +0000",
@@ -2352,6 +2353,7 @@
       "lush_desert": "2024-12-31 03:57:01 +0000",
       "redwood_forest": "2024-12-29 02:13:03 +0000",
       "visceral_heap": "2024-12-31 05:42:21 +0000",
+      "wasteland_steppe": "2025-01-17 18:34:31 +0000",
       "dune_beach": "2024-12-30 02:35:00 +0000",
       "volcano": "2024-12-29 03:47:42 +0000",
       "rocky_rainforest": "2024-12-29 04:03:24 +0000",
@@ -2393,6 +2395,7 @@
       "lush_desert": "2024-12-31 03:57:01 +0000",
       "redwood_forest": "2024-12-24 01:08:18 +0000",
       "visceral_heap": "2024-12-31 05:42:21 +0000",
+      "wasteland_steppe": "2025-01-17 18:34:31 +0000",
       "dune_beach": "2024-12-30 02:35:00 +0000",
       "volcano": "2024-12-29 03:47:42 +0000",
       "rocky_rainforest": "2024-12-29 04:03:24 +0000",
@@ -9934,6 +9937,7 @@
   },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
+      "killed_lightning_dragon": "2025-01-17 18:31:52 +0000",
       "killed_fire_dragon": "2024-12-29 04:11:41 +0000"
     },
     "done": false
@@ -15762,115 +15766,27 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
+      "in_stronghold_betterstrongholds": "2025-01-15 01:48:08 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-01-15 02:33:08 +0000",
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
+      "has_magic_tablet": "2025-01-15 01:49:41 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "tombstone:adventure/use_cupidity": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
+      "coded_trigger": "2025-01-15 01:49:54 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 02:33:05 +0000"
-    },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/building_blocks/gold_mine": {
     "criteria": {
       "has_mine": "2025-01-15 02:08:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-01-15 02:33:08 +0000",
-      "!bit13": "2025-01-15 02:33:30 +0000",
-      "!bit14": "2025-01-15 02:33:30 +0000",
-      "!bit11": "2025-01-15 02:33:08 +0000",
-      "!bit12": "2025-01-15 02:33:30 +0000",
-      "not_target": "2025-01-15 02:33:30 +0000",
-      "!bit10": "2025-01-15 02:33:30 +0000",
-      "!bit9": "2025-01-15 02:33:30 +0000",
-      "!bit8": "2025-01-15 02:33:30 +0000",
-      "!bit7": "2025-01-15 02:33:30 +0000",
-      "!bit6": "2025-01-15 02:33:30 +0000",
-      "!bit5": "2025-01-15 02:33:30 +0000",
-      "!bit4": "2025-01-15 02:33:08 +0000",
-      "!bit3": "2025-01-15 02:33:08 +0000",
-      "!bit2": "2025-01-15 02:33:08 +0000",
-      "!bit1": "2025-01-15 02:33:30 +0000",
-      "!bit0": "2025-01-15 02:33:08 +0000",
-      "bit9": "2025-01-15 02:33:08 +0000",
-      "bit7": "2025-01-15 02:33:08 +0000",
-      "bit8": "2025-01-15 02:33:08 +0000",
-      "bit5": "2025-01-15 02:33:08 +0000",
-      "bit14": "2025-01-15 02:33:08 +0000",
-      "bit6": "2025-01-15 02:33:08 +0000",
-      "bit1": "2025-01-15 02:33:08 +0000",
-      "target": "2025-01-15 02:33:08 +0000",
-      "bit12": "2025-01-15 02:33:08 +0000",
-      "bit13": "2025-01-15 02:33:08 +0000",
-      "bit10": "2025-01-15 02:33:08 +0000"
     },
     "done": false
   },
@@ -15901,12 +15817,6 @@
   "securitycraft:recipes/building_blocks/coal_mine": {
     "criteria": {
       "has_mine": "2025-01-15 02:08:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold_betterstrongholds": "2025-01-15 01:48:08 +0000"
     },
     "done": false
   },
@@ -15976,18 +15886,6 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/nuclear_bomb": {
-    "criteria": {
-      "nuclear_bomb": "2025-01-15 02:10:58 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:kill_villager": {
-    "criteria": {
-      "killedvillager": "2025-01-15 02:26:58 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/lapis_mine": {
     "criteria": {
       "has_mine": "2025-01-15 02:08:13 +0000"
@@ -16042,12 +15940,6 @@
     },
     "done": false
   },
-  "tombstone:adventure/use_cupidity": {
-    "criteria": {
-      "coded_trigger": "2025-01-15 01:49:54 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/gravel_mine": {
     "criteria": {
       "has_mine": "2025-01-15 02:08:13 +0000"
@@ -16078,12 +15970,6 @@
     },
     "done": false
   },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-01-15 01:49:41 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/netherrack_mine": {
     "criteria": {
       "has_mine": "2025-01-15 02:08:13 +0000"
@@ -16111,6 +15997,241 @@
   "securitycraft:recipes/building_blocks/dirt_mine": {
     "criteria": {
       "has_mine": "2025-01-15 02:08:13 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-01-15 02:10:58 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2025-01-15 02:26:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-17 18:40:45 +0000",
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 18:40:42 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_slab_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-01-17 18:32:54 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-01-17 18:33:21 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/cut_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-01-17 18:33:21 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-01-17 18:33:21 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_orange_sandstone_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/orange_sandstone_wall": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-01-17 18:38:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-01-17 18:17:53 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/orange_sandstone_wall_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-01-17 18:18:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_slab_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-01-17 18:33:02 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-17 18:17:15 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-17 18:33:21 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-01-17 18:18:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-17 18:17:15 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-01-17 18:38:06 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-01-17 18:33:21 +0000"
     },
     "done": false
   },
