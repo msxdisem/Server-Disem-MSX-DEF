@@ -1503,3 +1503,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 20:05:13.960] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
 [17Jan2025 20:05:24.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10099ms or 201 ticks behind
 [17Jan2025 20:05:34.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1119.500000, 160.500000, 6585.500000]
+[17Jan2025 20:05:41.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[17Jan2025 20:06:00.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3324ms or 66 ticks behind
+[17Jan2025 20:06:06.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:portal:P:12:65:37:2:false:0:Internal-the-nether-waypoints
+[17Jan2025 20:06:25.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Ender Pearl] to Ferj2202]
+[17Jan2025 20:06:39.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 12.500000, 65.500000, 37.500000]
+[17Jan2025 20:06:44.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[17Jan2025 20:06:45.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[17Jan2025 20:07:03.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17Jan2025 20:07:06.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[17Jan2025 20:07:06.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 20:07:07.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 20:07:21.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[17Jan2025 20:07:28.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[17Jan2025 20:08:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1132.500000, 63.500000, -1210.500000]
+[17Jan2025 20:09:25.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1295.500000, -15.500000, -1078.500000]
+[17Jan2025 20:09:27.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 fell from a high place
+[17Jan2025 20:09:27.239] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
+[17Jan2025 20:09:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1295.500000, -43.500000, -1078.500000]
+[17Jan2025 20:09:42.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1325.500000, -44.500000, -1136.500000]
+[17Jan2025 20:10:04.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1294.500000, 0.500000, -1110.500000]
+[17Jan2025 20:11:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1240.500000, -7.500000, -1105.500000]
+[17Jan2025 20:14:25.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17Jan2025 20:14:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [Home Sweet Home]
