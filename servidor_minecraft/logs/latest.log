@@ -1032,3 +1032,62 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 18:41:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO burned to death
 [17Jan2025 18:41:49.344] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
 [17Jan2025 18:41:52.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -2686.500000, 75.500000, -215.500000]
+[17Jan2025 18:42:02.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[17Jan2025 18:42:12.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[17Jan2025 18:42:20.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[17Jan2025 18:43:33.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
+[17Jan2025 18:43:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[17Jan2025 18:43:33.291] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[17Jan2025 18:43:43.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -2936.500000, 50.500000, -298.500000]
+[17Jan2025 18:43:44.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.84.150.45:61774] logged in with entity id 37999 at (-2898.784423828125, 98.1344039440155, -314.0661315917969)
+[17Jan2025 18:43:44.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[17Jan2025 18:43:44.535] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 18:43:44.536] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 18:43:44.536] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 18:43:44.553] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[17Jan2025 18:43:45.009] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[17Jan2025 18:44:24.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 18:44:45.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 441.500000, 68.500000, -329.500000]
+[17Jan2025 18:45:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -2936.500000, 49.500000, -296.500000]
+[17Jan2025 18:46:14.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[17Jan2025 18:46:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 215.500000, -4.500000, -846.500000]
+[17Jan2025 18:46:34.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -3005.500000, -15.500000, -366.500000]
+[17Jan2025 18:46:34.802] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 18:46:38.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 18:46:48.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 883.500000, 63.500000, 5.500000]
+[17Jan2025 18:47:06.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 941.500000, 127.500000, -83.500000]
+[17Jan2025 18:47:36.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[17Jan2025 18:48:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Fire Dragon
+[17Jan2025 18:48:01.140] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[17Jan2025 18:48:04.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -3001.500000, -4.500000, -378.500000]
+[17Jan2025 18:48:04.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[17Jan2025 18:48:05.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito moved wrongly!
+[17Jan2025 18:48:09.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was doomed to fall
+[17Jan2025 18:48:09.332] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[17Jan2025 18:48:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -3006.500000, -5.500000, -382.500000]
+[17Jan2025 18:49:17.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -3032.500000, -4.500000, -478.500000]
+[17Jan2025 18:49:23.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[17Jan2025 18:49:28.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[17Jan2025 18:49:39.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was incinerated by Fire Dragon
+[17Jan2025 18:49:39.404] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[17Jan2025 18:49:43.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -3045.500000, -5.500000, -485.500000]
+[17Jan2025 18:49:46.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3933ms or 78 ticks behind
+[17Jan2025 18:51:15.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -3146.500000, -11.500000, -587.500000]
+[17Jan2025 18:51:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -3090.500000, -29.500000, -658.500000]
+[17Jan2025 18:51:27.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17Jan2025 18:51:33.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -3019.500000, -27.500000, -729.500000]
+[17Jan2025 18:51:45.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[17Jan2025 18:51:47.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2919.500000, -39.500000, -767.500000]
+[17Jan2025 18:52:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Zombie
+[17Jan2025 18:52:00.117] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[17Jan2025 18:52:03.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[17Jan2025 18:52:06.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1008.500000, 112.500000, -78.500000]
+[17Jan2025 18:52:11.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Gave 1 [Eternal Steak] to STRANJO]
+[17Jan2025 18:52:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2788.500000, -31.500000, -841.500000]
+[17Jan2025 18:52:23.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 18:52:23.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 18:52:29.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Jan2025 18:52:29.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -2985.500000, -5.500000, -615.500000]
+[17Jan2025 18:52:47.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[17Jan2025 18:52:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -2868.500000, -12.500000, -706.500000]
+[17Jan2025 18:52:49.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2726.500000, -43.500000, -930.500000]
