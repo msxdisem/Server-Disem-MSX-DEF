@@ -2859,6 +2859,7 @@
       "rocky_shrubland": "2024-12-29 05:12:48 +0000",
       "scrubland": "2024-12-31 03:37:58 +0000",
       "bayou": "2025-01-07 02:50:00 +0000",
+      "erupting_inferno": "2025-01-17 19:32:35 +0000",
       "floodplain": "2024-12-29 03:59:30 +0000",
       "lush_savanna": "2025-01-07 17:49:50 +0000",
       "highland": "2024-12-28 03:53:12 +0000",
@@ -2895,6 +2896,7 @@
       "rocky_shrubland": "2024-12-25 23:11:12 +0000",
       "scrubland": "2024-12-31 03:37:58 +0000",
       "bayou": "2025-01-07 02:50:00 +0000",
+      "erupting_inferno": "2025-01-17 19:32:35 +0000",
       "floodplain": "2024-12-25 23:30:36 +0000",
       "lush_savanna": "2025-01-07 17:49:50 +0000",
       "highland": "2024-12-24 02:48:51 +0000",
@@ -3253,7 +3255,8 @@
   },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:49:08 +0000"
+      "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_log": "2025-01-17 19:34:44 +0000"
     },
     "done": false
   },
@@ -3320,7 +3323,8 @@
   },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:49:08 +0000"
+      "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_log": "2025-01-17 19:34:44 +0000"
     },
     "done": false
   },
@@ -6567,9 +6571,10 @@
   },
   "mcwwindows:recipes/crimson": {
     "criteria": {
+      "has_wood": "2025-01-17 19:34:44 +0000",
       "has_the_recipe": "2024-12-24 19:38:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/deepslate": {
     "criteria": {
@@ -11826,12 +11831,14 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-01-17 19:34:25 +0000",
       "incendium:inverted_forest": "2024-12-31 05:24:49 +0000"
     },
     "done": false
   },
   "incendium:misc/root": {
     "criteria": {
+      "incendium:ash_barrens": "2025-01-17 19:34:25 +0000",
       "incendium:inverted_forest": "2024-12-31 05:24:49 +0000"
     },
     "done": false
@@ -12428,6 +12435,7 @@
   },
   "cfm:recipes/decorations/crimson_upgraded_gate": {
     "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000",
       "has_gate": "2025-01-01 06:13:06 +0000"
     },
     "done": false
@@ -13359,6 +13367,180 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-14 18:58:42 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-17 19:33:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-17 19:33:52 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-01-17 19:34:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/stable_body": {
+    "criteria": {
+      "has_crying_obsidian": "2025-01-17 19:33:52 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-17 19:34:44 +0000"
     },
     "done": false
   },
