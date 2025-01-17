@@ -1232,3 +1232,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 19:13:09.263] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
 [17Jan2025 19:13:19.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [17Jan2025 19:13:26.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2257.500000, -43.500000, -2020.500000]
+[17Jan2025 19:13:39.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Jan2025 19:13:45.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
+[17Jan2025 19:13:45.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[17Jan2025 19:13:45.227] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[17Jan2025 19:14:25.183] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@605b600[id=<null>,name=antiqueito,properties={},legacy=false] (/100.84.150.45:61890) lost connection: Disconnected
+[17Jan2025 19:14:37.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.84.150.45:61891] logged in with entity id 58989 at (-2257.5, -43.5, -2020.5)
+[17Jan2025 19:14:37.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[17Jan2025 19:14:37.463] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 19:14:37.463] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 19:14:37.464] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 19:14:37.465] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[17Jan2025 19:14:38.197] [Netty Epoll Server IO #0/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[17Jan2025 19:16:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -2234.500000, 84.500000, -2109.500000]
+[17Jan2025 19:16:06.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:16:06.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:16:41.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 19:16:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -2295.500000, -43.500000, -2082.500000]
+[17Jan2025 19:17:04.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:17:04.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:17:04.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:17:37.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:17:37.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:17:37.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:17:37.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:18:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2182.500000, -12.500000, -1958.500000]
+[17Jan2025 19:18:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[17Jan2025 19:19:59.199] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 19:20:19.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Mother of Dragons]
+[17Jan2025 19:20:58.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 19:21:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2310.500000, -17.500000, -2095.500000]
+[17Jan2025 19:22:18.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2241.500000, 40.500000, -2188.500000]
+[17Jan2025 19:22:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Quite the Renovation]
+[17Jan2025 19:23:50.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to -2326.500000, -7.500000, -2276.500000]
