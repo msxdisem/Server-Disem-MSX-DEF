@@ -13548,9 +13548,10 @@
   },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
-      "has_netherite_ingot": "2024-12-31 03:25:01 +0000"
+      "has_netherite_ingot": "2024-12-31 03:25:01 +0000",
+      "has_the_recipe": "2025-01-17 20:31:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {

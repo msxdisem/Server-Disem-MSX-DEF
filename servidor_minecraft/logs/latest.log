@@ -1529,3 +1529,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 20:25:33.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
 [17Jan2025 20:25:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
 [17Jan2025 20:26:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[17Jan2025 20:27:50.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[17Jan2025 20:28:39.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [Great minds think alike]
+[17Jan2025 20:29:11.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 99.500000, -467.500000]
+[17Jan2025 20:29:37.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:ESTRELLA:E:585:137:-447:11:false:0:Internal-overworld-waypoints
+[17Jan2025 20:30:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 474.500000, 72.500000, -669.500000]
+[17Jan2025 20:30:54.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Liraanto to STRANJO]
+[17Jan2025 20:31:31.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 559.500000, 107.500000, -491.500000]
+[17Jan2025 20:31:37.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 585.500000, 137.500000, -446.500000]
+[17Jan2025 20:31:44.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 392.500000, 67.500000, -695.500000]
+[17Jan2025 20:31:44.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 671.500000, 127.500000, -338.500000]
+[17Jan2025 20:31:57.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Fire Dragon
+[17Jan2025 20:31:57.248] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[17Jan2025 20:32:02.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 390.500000, 67.500000, -693.500000]
+[17Jan2025 20:32:04.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 20:32:16.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[17Jan2025 20:32:36.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 20:35:40.199] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 20:36:16.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 20:36:16.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 20:36:16.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
