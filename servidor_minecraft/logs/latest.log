@@ -2884,3 +2884,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 23:11:02.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 11.500000, 51.500000, 36.500000]
 [17Jan2025 23:12:17.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
 [17Jan2025 23:12:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 30.500000, 43.500000, -152.500000]
+[17Jan2025 23:13:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 53.500000, 37.500000, -119.500000]
+[17Jan2025 23:15:35.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=40, z=36} BlockPos{x=-74, y=39, z=37}
+[17Jan2025 23:17:00.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [A galaxy far far away...]
+[17Jan2025 23:18:56.322] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 23:19:44.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was killed by Ender Dragon using magic
+[17Jan2025 23:19:44.069] [Server thread/INFO] [tombstone/]: The player Eguaro has successfully been saved
+[17Jan2025 23:19:50.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
+[17Jan2025 23:19:55.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 1.500000, 34.500000, 104.500000]
+[17Jan2025 23:20:03.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 23:21:42.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -20.500000, 23.500000, 33.500000]
+[17Jan2025 23:22:06.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -26.500000, 24.500000, 30.500000]
+[17Jan2025 23:22:16.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 34.500000, 18.500000, 86.500000]
+[17Jan2025 23:22:25.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 23:23:10.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
