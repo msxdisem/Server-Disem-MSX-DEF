@@ -14781,9 +14781,10 @@
   },
   "deeperdarker:recipes/building_blocks/bloom_planks": {
     "criteria": {
-      "has_logs": "2025-01-01 04:59:25 +0000"
+      "has_logs": "2025-01-01 04:59:25 +0000",
+      "has_the_recipe": "2025-01-17 21:03:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
@@ -17619,6 +17620,24 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/bloom_slab": {
+    "criteria": {
+      "has_bloom_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/redstone/bloom_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/decorations/bloom_sign": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/crimson_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-17 19:11:39 +0000"
@@ -17741,6 +17760,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/redstone/bloom_button": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_nunchaku_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
@@ -17777,6 +17802,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/redstone/bloom_pressure_plate": {
+    "criteria": {
+      "has_bloom_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_machete_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
@@ -17794,6 +17825,12 @@
       "killed": "2025-01-17 18:08:50 +0000"
     },
     "done": true
+  },
+  "deeperdarker:recipes/redstone/bloom_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
     "criteria": {
@@ -17917,15 +17954,33 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/decorations/bloom_fence": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
     "criteria": {
       "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/bloom_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/redstone/bloom_door": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:03:43 +0000"
     },
     "done": false
   },
