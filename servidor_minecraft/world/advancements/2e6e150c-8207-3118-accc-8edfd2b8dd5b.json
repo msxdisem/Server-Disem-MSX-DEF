@@ -1240,7 +1240,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
-      "has_stick": "2024-12-24 00:06:28 +0000"
+      "has_stick": "2024-12-24 00:06:28 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -1531,7 +1532,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
-      "has_stick": "2024-12-24 00:06:28 +0000"
+      "has_stick": "2024-12-24 00:06:28 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -2876,7 +2878,8 @@
     "criteria": {
       "has_redstone": "2024-12-24 00:19:33 +0000",
       "has_iron_ingot": "2024-12-28 02:37:01 +0000",
-      "has_glowstone_dust": "2024-12-30 01:23:37 +0000"
+      "has_glowstone_dust": "2024-12-30 01:23:37 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -3404,7 +3407,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
-      "has_iron_ingot": "2024-12-24 00:21:11 +0000"
+      "has_iron_ingot": "2024-12-24 00:21:11 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -3457,6 +3461,7 @@
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
     },
     "done": false
@@ -3655,6 +3660,7 @@
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
     },
     "done": false
@@ -4343,6 +4349,7 @@
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000",
       "has_iron_ingot": "2024-12-24 00:21:11 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000",
       "has_copper_ingot": "2024-12-28 03:08:26 +0000"
     },
     "done": false
@@ -5831,6 +5838,7 @@
   },
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
+      "has_bottom": "2025-01-17 19:11:39 +0000",
       "has_bucket": "2024-12-24 00:35:37 +0000",
       "has_top": "2024-12-31 22:45:12 +0000"
     },
@@ -5888,6 +5896,7 @@
   },
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
+      "has_bottom": "2025-01-17 19:11:39 +0000",
       "has_bucket": "2024-12-24 00:35:37 +0000"
     },
     "done": false
@@ -6048,7 +6057,9 @@
   },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:36:37 +0000"
+      "has_chest": "2024-12-24 00:36:37 +0000",
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -6123,7 +6134,8 @@
   },
   "cfm:recipes/decorations/stripped_crimson_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:36:37 +0000"
+      "has_chest": "2024-12-24 00:36:37 +0000",
+      "has_log": "2025-01-17 19:11:36 +0000"
     },
     "done": false
   },
@@ -8160,6 +8172,7 @@
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000",
       "has_white_dye": "2025-01-04 00:15:43 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000",
       "has_copper_ingot": "2024-12-24 05:48:23 +0000"
     },
     "done": false
@@ -9151,9 +9164,10 @@
   },
   "mcwwindows:recipes/crimson": {
     "criteria": {
+      "has_wood": "2025-01-17 19:11:36 +0000",
       "has_the_recipe": "2024-12-25 23:02:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/jungle": {
     "criteria": {
@@ -9639,7 +9653,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
-      "has_glass": "2024-12-26 05:07:10 +0000"
+      "has_glass": "2024-12-26 05:07:10 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -12658,9 +12673,10 @@
   },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "has_logs": "2024-12-30 02:03:22 +0000"
+      "has_logs": "2024-12-30 02:03:22 +0000",
+      "has_the_recipe": "2025-01-17 19:11:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/decorations/brimstone_cluster": {
     "criteria": {
@@ -15548,7 +15564,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
     "criteria": {
-      "has_white_dye": "2025-01-04 00:15:43 +0000"
+      "has_white_dye": "2025-01-04 00:15:43 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -15591,7 +15608,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
-      "has_white_dye": "2025-01-04 00:15:43 +0000"
+      "has_white_dye": "2025-01-04 00:15:43 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -15671,7 +15689,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
     "criteria": {
-      "has_white_dye": "2025-01-04 00:15:43 +0000"
+      "has_white_dye": "2025-01-04 00:15:43 +0000",
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -17432,6 +17451,84 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 19:13:18 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
     "criteria": {
       "has_item": "2025-01-17 18:10:52 +0000"
@@ -17450,9 +17547,35 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_round_shield_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -17462,15 +17585,39 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_dagger_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:36 +0000"
     },
     "done": false
   },
@@ -17492,17 +17639,66 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2025-01-17 17:53:18 +0000"
     },
     "done": false
   },
+  "undead_revamp2:nicehousebro": {
+    "criteria": {
+      "nicehousebro_0": "2025-01-17 18:56:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/crimson_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/crimson_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/crimson_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-01-17 19:00:59 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
     "criteria": {
@@ -17534,6 +17730,13 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_claw_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
@@ -17552,15 +17755,52 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
     "criteria": {
       "has_item": "2025-01-17 18:10:52 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/silver_shovel": {
     "criteria": {
       "has_the_recipe": "2025-01-17 17:58:25 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:allbosseskilled": {
+    "criteria": {
+      "allbosseskilled_0": "2025-01-17 18:56:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:36 +0000"
     },
     "done": false
   },
@@ -17630,9 +17870,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-01-17 18:17:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -17642,9 +17900,28 @@
     },
     "done": false
   },
+  "threateningly_mobs:hydra_defeat": {
+    "criteria": {
+      "hydra_defeat_0": "2025-01-17 18:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -17666,9 +17943,84 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-01-17 19:07:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
@@ -17690,9 +18042,64 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-01-17 19:07:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000",
+      "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_battle_axe_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_crimson_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-17 19:11:39 +0000"
     },
     "done": false
   },
