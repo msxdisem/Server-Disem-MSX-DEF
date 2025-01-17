@@ -2904,3 +2904,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 23:28:30.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -319.500000, 37.500000, -273.500000]
 [17Jan2025 23:29:10.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -31.500000, 44.500000, -63.500000]
 [17Jan2025 23:33:20.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[17Jan2025 23:33:26.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Eguaro]
+[17Jan2025 23:33:36.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 23:36:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Eguaro]
+[17Jan2025 23:38:22.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -16.500000, 20.500000, 1.500000]
+[17Jan2025 23:38:27.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.112.174.92:49865] logged in with entity id 226488 at (675.8614608451003, 117.0, -348.14719938907297)
+[17Jan2025 23:38:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[17Jan2025 23:38:27.881] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 23:38:27.881] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 23:38:27.881] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 23:38:27.884] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[17Jan2025 23:38:28.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved too quickly! -11.50745461583849,5.435515427152767,-12.956275824769413
+[17Jan2025 23:38:28.953] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[17Jan2025 23:38:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Weird Fishes/Arpeggi]
+[17Jan2025 23:38:57.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[17Jan2025 23:40:57.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[17Jan2025 23:41:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 679.500000, 117.500000, -348.500000]
+[17Jan2025 23:41:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[17Jan2025 23:42:09.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 23:43:28.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
