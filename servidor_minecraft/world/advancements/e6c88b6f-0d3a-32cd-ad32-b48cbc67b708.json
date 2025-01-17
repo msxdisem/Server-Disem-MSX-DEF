@@ -6600,9 +6600,10 @@
   },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
-      "has_gold_ingot": "2024-12-29 23:51:01 +0000"
+      "has_gold_ingot": "2024-12-29 23:51:01 +0000",
+      "has_the_recipe": "2025-01-17 22:44:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
@@ -6612,9 +6613,10 @@
   },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
-      "has_gold_ingot": "2024-12-29 23:51:01 +0000"
+      "has_gold_ingot": "2024-12-29 23:51:01 +0000",
+      "has_the_recipe": "2025-01-17 22:44:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
@@ -7319,9 +7321,10 @@
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_gold_nugget": "2024-12-30 00:21:46 +0000"
+      "has_gold_nugget": "2024-12-30 00:21:46 +0000",
+      "has_the_recipe": "2025-01-17 22:44:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
@@ -9055,9 +9058,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
-      "has_leather": "2024-12-30 03:14:50 +0000"
+      "has_leather": "2024-12-30 03:14:50 +0000",
+      "has_the_recipe": "2025-01-17 22:43:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
@@ -12377,6 +12381,18 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-01-17 22:45:01 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/polished_gloomslate": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:01:22 +0000"
@@ -12467,6 +12483,19 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000",
+      "has_the_recipe": "2025-01-17 22:45:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/decorations/sign_post_crimson": {
     "criteria": {
       "has_planks": "2025-01-17 21:37:47 +0000"
@@ -12482,6 +12511,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12518,6 +12553,12 @@
   "ironchest:recipes/decorations/chests/trapped_gold_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12612,6 +12653,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/echo_planks": {
     "criteria": {
       "has_logs": "2025-01-17 22:19:17 +0000",
@@ -12643,9 +12690,21 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:01:22 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12673,6 +12732,18 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
@@ -12682,6 +12753,12 @@
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_terracotta": "2025-01-17 21:37:48 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12718,6 +12795,12 @@
   "cfm:recipes/decorations/crimson_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12775,6 +12858,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-17 20:44:04 +0000"
@@ -12820,6 +12909,12 @@
   "morevillagers:recipes/purpur_altar": {
     "criteria": {
       "has_end_stone": "2025-01-17 20:44:04 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12877,6 +12972,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-01-17 21:39:17 +0000"
@@ -12886,6 +12987,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-01-17 19:33:56 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12919,11 +13026,23 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "simplyswords:shadowsting": {
     "criteria": {
       "requirement": "2025-01-17 21:47:31 +0000"
     },
     "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
   },
   "incendium:misc/root": {
     "criteria": {
@@ -12931,9 +13050,27 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12961,9 +13098,21 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_crate": {
     "criteria": {
       "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -12988,6 +13137,12 @@
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -13028,6 +13183,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/redstone/echo_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-17 22:19:18 +0000"
@@ -13052,6 +13213,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_park_bench": {
     "criteria": {
       "has_planks": "2025-01-17 21:37:47 +0000"
@@ -13073,6 +13240,12 @@
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_polished_sculk_stone_stonecutting": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -13142,6 +13315,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-17 21:37:47 +0000"
@@ -13160,9 +13339,21 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },
@@ -13182,6 +13373,12 @@
   "deeperdarker:recipes/building_blocks/bloom_planks": {
     "criteria": {
       "has_logs": "2025-01-17 20:54:50 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-17 22:43:12 +0000"
     },
     "done": false
   },

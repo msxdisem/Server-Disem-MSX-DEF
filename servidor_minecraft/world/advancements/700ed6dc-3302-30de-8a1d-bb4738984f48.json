@@ -777,6 +777,7 @@
       "minecraft:creeper": "2025-01-13 23:47:59 +0000",
       "minecraft:evoker": "2025-01-14 16:21:50 +0000",
       "minecraft:phantom": "2025-01-14 14:32:33 +0000",
+      "minecraft:zombified_piglin": "2025-01-17 22:45:00 +0000",
       "minecraft:witch": "2025-01-13 23:08:48 +0000",
       "minecraft:wither_skeleton": "2025-01-17 21:29:47 +0000",
       "minecraft:husk": "2025-01-14 00:22:31 +0000",
@@ -799,6 +800,7 @@
       "minecraft:creeper": "2025-01-13 23:47:59 +0000",
       "minecraft:evoker": "2025-01-14 16:21:50 +0000",
       "minecraft:phantom": "2025-01-14 14:32:33 +0000",
+      "minecraft:zombified_piglin": "2025-01-17 22:45:00 +0000",
       "minecraft:witch": "2025-01-13 23:08:48 +0000",
       "minecraft:wither_skeleton": "2025-01-17 21:29:47 +0000",
       "minecraft:husk": "2025-01-14 00:22:31 +0000",
@@ -1639,6 +1641,7 @@
   },
   "supplementaries:recipes/blackboard": {
     "criteria": {
+      "supplementaries:blackboard_white": "2025-01-17 22:42:33 +0000",
       "has_blackstone": "2025-01-14 02:00:43 +0000",
       "minecraft:wooden_slabs": "2025-01-13 23:22:04 +0000"
     },
@@ -10392,9 +10395,69 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-17 22:41:23 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-01-17 21:36:09 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
     },
     "done": false
   },
@@ -10407,6 +10470,12 @@
   "l2weaponry:recipes/enchantments/enchantments/claw_shielding": {
     "criteria": {
       "has_warden_bone_shard": "2025-01-17 22:17:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
     },
     "done": false
   },
@@ -10428,11 +10497,47 @@
     },
     "done": false
   },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
   "crystalcraft_unlimited_java:celestial_hot_stuff": {
     "criteria": {
       "celestial_hot_stuff_0": "2025-01-17 22:33:07 +0000"
     },
     "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-17 22:41:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
@@ -10464,15 +10569,63 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2025-01-17 22:17:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
     },
     "done": false
   },
@@ -10482,9 +10635,39 @@
     },
     "done": false
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-01-17 22:21:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
     },
     "done": false
   },
@@ -10500,15 +10683,51 @@
     },
     "done": false
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-17 22:41:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/combat/netherite_helmet_repairing": {
     "criteria": {
       "has_netherite_helmet": "2025-01-17 22:33:14 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
     },
     "done": false
   },
@@ -10545,11 +10764,41 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_soul_crystal": "2025-01-17 22:13:22 +0000",
       "has_heart_of_the_deep": "2025-01-17 22:17:23 +0000",
       "has_sculk_bone": "2025-01-17 22:15:08 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-17 22:41:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
     },
     "done": false
   },
@@ -10583,6 +10832,12 @@
     },
     "done": false
   },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
       "has_warden_carapace": "2025-01-17 22:17:12 +0000"
@@ -10607,6 +10862,18 @@
     },
     "done": false
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
@@ -10625,6 +10892,12 @@
     },
     "done": false
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-17 22:41:21 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
     "criteria": {
       "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
@@ -10637,15 +10910,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-17 22:12:15 +0000"
     },
     "done": false
   },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/craft/sculkium_ingot": {
     "criteria": {
       "has_warden_bone_shard": "2025-01-17 22:17:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
     },
     "done": false
   },
