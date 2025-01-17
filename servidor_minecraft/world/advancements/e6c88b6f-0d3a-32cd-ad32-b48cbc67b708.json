@@ -12318,11 +12318,23 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-17 20:23:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-01-17 19:42:34 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-01-17 20:14:30 +0000"
+    },
+    "done": true
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
@@ -12351,6 +12363,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-01-17 19:47:56 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-01-17 20:17:40 +0000"
     },
     "done": false
   },

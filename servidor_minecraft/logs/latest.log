@@ -1526,3 +1526,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 20:11:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1240.500000, -7.500000, -1105.500000]
 [17Jan2025 20:14:25.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [17Jan2025 20:14:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [Home Sweet Home]
+[17Jan2025 20:25:33.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[17Jan2025 20:25:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[17Jan2025 20:26:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
