@@ -2277,7 +2277,8 @@
   },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
-      "has_stick": "2024-12-24 00:30:22 +0000"
+      "has_stick": "2024-12-24 00:30:22 +0000",
+      "has_magenta_wool": "2025-01-17 20:39:58 +0000"
     },
     "done": false
   },
@@ -2549,7 +2550,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
     "criteria": {
-      "has_stick": "2024-12-24 00:30:22 +0000"
+      "has_stick": "2024-12-24 00:30:22 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -2636,7 +2638,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
     "criteria": {
-      "has_stick": "2024-12-24 00:30:22 +0000"
+      "has_stick": "2024-12-24 00:30:22 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -3484,7 +3487,8 @@
   },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
-      "has_chest": "2024-12-24 00:49:08 +0000"
+      "has_chest": "2024-12-24 00:49:08 +0000",
+      "has_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -4025,7 +4029,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_storage_cabinet": {
     "criteria": {
-      "has_iron_ingot": "2024-12-24 00:53:23 +0000"
+      "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -4039,7 +4044,8 @@
     "criteria": {
       "has_redstone": "2024-12-28 02:11:16 +0000",
       "has_iron_ingot": "2024-12-24 00:53:23 +0000",
-      "has_glowstone_dust": "2024-12-31 01:48:09 +0000"
+      "has_glowstone_dust": "2024-12-31 01:48:09 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -4076,6 +4082,7 @@
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000",
       "has_copper_ingot": "2024-12-28 22:42:16 +0000"
     },
     "done": false
@@ -4668,6 +4675,7 @@
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000",
       "has_copper_ingot": "2024-12-28 22:42:16 +0000"
     },
     "done": false
@@ -4900,6 +4908,7 @@
   },
   "cfm:recipes/decorations/magenta_trampoline": {
     "criteria": {
+      "has_wool": "2025-01-17 20:39:58 +0000",
       "has_iron": "2024-12-24 00:53:23 +0000"
     },
     "done": false
@@ -4964,6 +4973,7 @@
   "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:53:23 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000",
       "has_copper_ingot": "2024-12-28 22:42:16 +0000"
     },
     "done": false
@@ -7193,7 +7203,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
-      "has_glass": "2024-12-26 05:05:23 +0000"
+      "has_glass": "2024-12-26 05:05:23 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -9158,6 +9169,7 @@
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
       "has_white_dye": "2024-12-28 03:56:34 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000",
       "has_copper_ingot": "2024-12-28 22:42:16 +0000"
     },
     "done": false
@@ -9256,7 +9268,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
     "criteria": {
-      "has_white_dye": "2024-12-28 03:56:34 +0000"
+      "has_white_dye": "2024-12-28 03:56:34 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -9304,7 +9317,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
     "criteria": {
-      "has_white_dye": "2024-12-28 03:56:34 +0000"
+      "has_white_dye": "2024-12-28 03:56:34 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -9329,7 +9343,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
     "criteria": {
-      "has_white_dye": "2024-12-28 03:56:34 +0000"
+      "has_white_dye": "2024-12-28 03:56:34 +0000",
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -9838,9 +9853,10 @@
   },
   "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
-      "has_needed_dye": "2024-12-28 03:56:51 +0000"
+      "has_needed_dye": "2024-12-28 03:56:51 +0000",
+      "has_the_recipe": "2025-01-17 20:39:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/decorations/magenta_kitchen_drawer_from_dyeing": {
     "criteria": {
@@ -13031,6 +13047,7 @@
   },
   "cfm:recipes/decorations/warped_kitchen_sink_dark": {
     "criteria": {
+      "has_bottom": "2025-01-17 20:42:25 +0000",
       "has_bucket": "2025-01-07 04:35:45 +0000"
     },
     "done": false
@@ -13127,6 +13144,7 @@
   },
   "cfm:recipes/decorations/warped_kitchen_sink_light": {
     "criteria": {
+      "has_bottom": "2025-01-17 20:42:25 +0000",
       "has_bucket": "2025-01-07 04:35:45 +0000"
     },
     "done": false
@@ -13377,9 +13395,27 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/magenta_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -13389,9 +13425,27 @@
     },
     "done": false
   },
+  "wool_collection:recipes/decorations/magenta_wool_wall": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_table": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -13407,6 +13461,36 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/warped_table": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_desk": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_table": {
+    "criteria": {
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/building_blocks/magenta_wool_slab": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_coffee_table": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
@@ -13419,9 +13503,45 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
+    "criteria": {
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/magenta_wool_fence": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/crimson_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -13431,9 +13551,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
     },
     "done": false
   },
@@ -13449,9 +13599,21 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/warped_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_crimson_kitchen_counter": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -13473,15 +13635,87 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_desk": {
+    "criteria": {
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-01-17 19:34:44 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/warped_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/building_blocks/magenta_wool_fence_gate": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
+    "criteria": {
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_crate": {
+    "criteria": {
+      "has_warped_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/redstone/magenta_wool_button": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_crate": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_crate": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "wool_collection:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
     },
     "done": false
   },
@@ -13509,6 +13743,12 @@
     },
     "done": false
   },
+  "wool_collection:recipes/redstone/magenta_wool_pressure_plate": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_park_bench": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
@@ -13518,6 +13758,12 @@
   "cfm:recipes/decorations/stripped_crimson_desk": {
     "criteria": {
       "has_planks": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },
@@ -13533,15 +13779,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_chair": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
     },
     "done": false
   },
+  "wool_collection:recipes/building_blocks/magenta_wool_stairs": {
+    "criteria": {
+      "has_trigger_item": "2025-01-17 20:39:58 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_blinds": {
     "criteria": {
       "has_log": "2025-01-17 19:34:44 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/warped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-01-17 20:42:25 +0000"
     },
     "done": false
   },

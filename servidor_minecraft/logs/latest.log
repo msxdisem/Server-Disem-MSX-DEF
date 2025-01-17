@@ -1549,3 +1549,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 20:36:16.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [17Jan2025 20:36:16.875] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [17Jan2025 20:36:16.876] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 20:38:04.401] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 20:38:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Zombie
+[17Jan2025 20:38:20.496] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[17Jan2025 20:38:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 0.500000, 69.500000, -775.500000]
+[17Jan2025 20:38:47.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[17Jan2025 20:39:55.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1336.500000, -23.500000, -1117.500000]
+[17Jan2025 20:40:14.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[17Jan2025 20:41:24.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1336.500000, -23.500000, -1117.500000]
+[17Jan2025 20:42:20.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Liraanto]
+[17Jan2025 20:42:56.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1336.500000, -23.500000, -1117.500000]
+[17Jan2025 20:43:05.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [The End?]
+[17Jan2025 20:43:12.467] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[17Jan2025 20:43:12.467] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[17Jan2025 20:43:13.794] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[17Jan2025 20:43:13.794] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=53, z=0}
+[17Jan2025 20:43:13.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9751ms or 195 ticks behind
+[17Jan2025 20:43:15.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Ferj2202 to STRANJO]
+[17Jan2025 20:43:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1336.500000, -23.500000, -1117.500000]
+[17Jan2025 20:44:21.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 605.500000, 65.500000, -2730.500000]
+[17Jan2025 20:44:49.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
+[17Jan2025 20:45:06.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 720.500000, 63.500000, -369.500000]
+[17Jan2025 20:45:10.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5647ms or 112 ticks behind
+[17Jan2025 20:45:27.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[17Jan2025 20:46:00.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[17Jan2025 20:46:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 8.500000, 37.500000, -300.500000]
+[17Jan2025 20:46:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 69.500000, 37.500000, -279.500000]
