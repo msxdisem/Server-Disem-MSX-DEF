@@ -2744,3 +2744,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 22:29:12.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 676.500000, 117.500000, -340.500000]
 [17Jan2025 22:29:53.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:portal nether (superficie):P:55:65:274:9:false:0:Internal-overworld-waypoints
 [17Jan2025 22:29:55.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Portal Nether:P:53:66:277:14:false:0:Internal-overworld-waypoints
+[17Jan2025 22:31:04.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[17Jan2025 22:31:24.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5295ms or 105 ticks behind
+[17Jan2025 22:32:14.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[17Jan2025 22:32:45.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 930.500000, -57.500000, -338.500000]
+[17Jan2025 22:33:07.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Celestial Hot Stuff]
+[17Jan2025 22:36:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 787.500000, 110.500000, -189.500000]
+[17Jan2025 22:36:35.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[17Jan2025 22:36:40.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 609.500000, 76.500000, -2734.500000]
+[17Jan2025 22:36:57.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17Jan2025 22:37:14.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17Jan2025 22:37:29.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[17Jan2025 22:39:41.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]
+[17Jan2025 22:41:11.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 53.500000, 66.500000, 277.500000]
+[17Jan2025 22:41:21.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Incendium]
+[17Jan2025 22:41:21.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [We Need to Go Deeper]
+[17Jan2025 22:41:22.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4908ms or 98 ticks behind
+[17Jan2025 22:41:39.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
