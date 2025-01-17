@@ -17389,5 +17389,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-17 17:53:18 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-17 17:53:18 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
