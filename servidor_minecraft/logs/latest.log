@@ -2923,3 +2923,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 23:41:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
 [17Jan2025 23:42:09.723] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
 [17Jan2025 23:43:28.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 23:43:46.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1181.500000, 66.500000, 1050.500000]
+[17Jan2025 23:44:10.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[17Jan2025 23:44:14.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Tide Specter
+[17Jan2025 23:44:14.691] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[17Jan2025 23:44:20.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1192.500000, 64.500000, 1045.500000]
+[17Jan2025 23:44:53.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1.500000, 33.500000, -139.500000]
+[17Jan2025 23:45:16.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 23:45:16.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved too quickly! -13.12956995080362,10.36770287644967,6.187742611092666
+[17Jan2025 23:45:28.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[17Jan2025 23:45:28.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[17Jan2025 23:46:15.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1210.500000, 66.500000, 797.500000]
+[17Jan2025 23:46:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1387.500000, 67.500000, 402.500000]
+[17Jan2025 23:47:41.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Metal Pipe Falling ]
+[17Jan2025 23:49:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Race Against The Clock]
+[17Jan2025 23:49:54.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 53.500000, 66.500000, 277.500000]
+[17Jan2025 23:50:01.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
+[17Jan2025 23:50:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
+[17Jan2025 23:50:01.374] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[17Jan2025 23:50:03.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[17Jan2025 23:50:22.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 609.500000, 76.500000, -2734.500000]
+[17Jan2025 23:50:24.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[17Jan2025 23:50:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Jennifer Dumped Me]
+[17Jan2025 23:50:33.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by The Horrors
+[17Jan2025 23:50:33.649] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[17Jan2025 23:50:35.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 23:50:35.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 23:50:39.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to -1416.500000, 62.500000, 557.500000]
+[17Jan2025 23:50:44.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5400ms or 108 ticks behind
+[17Jan2025 23:51:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 238.500000, 115.500000, 130.500000]
+[17Jan2025 23:51:05.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
+[17Jan2025 23:51:24.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
+[17Jan2025 23:51:47.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8573ms or 171 ticks behind
+[17Jan2025 23:51:56.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[17Jan2025 23:52:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[17Jan2025 23:52:07.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 23:52:09.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6585ms or 131 ticks behind
+[17Jan2025 23:52:33.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17Jan2025 23:52:39.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 3430.500000, 75.500000, -5625.500000]
+[17Jan2025 23:52:52.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=30, z=70} BlockPos{x=213, y=30, z=69}
+[17Jan2025 23:52:55.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7245ms or 144 ticks behind
+[17Jan2025 23:53:14.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3966ms or 79 ticks behind
+[17Jan2025 23:53:33.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4316ms or 86 ticks behind
+[17Jan2025 23:53:44.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=16, z=57} BlockPos{x=233, y=15, z=58}
+[17Jan2025 23:53:44.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=16, z=57} BlockPos{x=233, y=15, z=58}
+[17Jan2025 23:53:44.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=234, y=16, z=57} BlockPos{x=233, y=15, z=58}

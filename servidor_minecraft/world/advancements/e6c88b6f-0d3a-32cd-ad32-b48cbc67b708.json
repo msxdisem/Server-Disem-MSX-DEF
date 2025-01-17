@@ -5720,9 +5720,10 @@
   },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
+      "has_the_recipe": "2025-01-17 23:47:33 +0000",
       "has_iron_ingot": "2024-12-29 23:35:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "cfm:recipes/decorations/green_grill": {
     "criteria": {
@@ -12362,6 +12363,78 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-17 23:49:19 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_polished_sculk_stone_stonecutting": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
@@ -12603,6 +12676,12 @@
       "has_end_stone": "2025-01-17 20:44:04 +0000"
     },
     "done": false
+  },
+  "crystalcraft_unlimited_java:iron_stick_advancement": {
+    "criteria": {
+      "iron_stick_advancement_0": "2025-01-17 23:47:41 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
@@ -13000,6 +13079,12 @@
       "has_redstone_torch": "2025-01-17 19:33:56 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-01-17 23:49:06 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
