@@ -8429,6 +8429,7 @@
     "criteria": {
       "shattered": "2025-01-01 04:58:43 +0000",
       "phantom": "2024-12-24 19:32:50 +0000",
+      "stalker": "2025-01-17 22:18:02 +0000",
       "shriek_worm": "2025-01-01 04:55:38 +0000",
       "sculk_centipede": "2025-01-01 04:37:47 +0000",
       "sculk_leech": "2025-01-01 04:56:13 +0000",
@@ -8436,7 +8437,7 @@
       "angler_fish": "2025-01-01 04:55:43 +0000",
       "sculk_snapper": "2025-01-17 21:14:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
@@ -14583,11 +14584,12 @@
   },
   "deeperdarker:main/explore_otherside": {
     "criteria": {
+      "overcast_columns": "2025-01-17 22:02:25 +0000",
       "deeplands": "2025-01-01 04:36:26 +0000",
       "blooming_caverns": "2025-01-01 04:39:04 +0000",
       "echoing_forest": "2025-01-01 04:38:50 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/building_blocks/soundproof_glass": {
     "criteria": {
@@ -17459,9 +17461,10 @@
   },
   "deeperdarker:recipes/transportation/soul_elytra": {
     "criteria": {
-      "has_elytra": "2025-01-15 01:34:24 +0000"
+      "has_elytra": "2025-01-15 01:34:24 +0000",
+      "has_the_recipe": "2025-01-17 22:25:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "deeperdarker:recipes/building_blocks/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
@@ -17523,10 +17526,22 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_log": "2025-01-17 19:11:36 +0000",
       "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
     },
     "done": false
   },
@@ -17591,6 +17606,12 @@
     },
     "done": false
   },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-17 21:44:45 +0000"
@@ -17621,15 +17642,35 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/combat/warden_helmet_smithing": {
+    "criteria": {
+      "has_the_recipe": "2025-01-17 21:50:59 +0000",
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
+  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-01-17 21:38:52 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed_by": "2025-01-17 22:09:17 +0000",
+      "killed": "2025-01-17 22:09:17 +0000"
     },
     "done": false
   },
@@ -17654,6 +17695,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
     "criteria": {
       "has_crimson_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/tools/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
     },
     "done": false
   },
@@ -17836,6 +17883,12 @@
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_claw_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/combat/warden_boots_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
     },
     "done": false
   },
@@ -18110,6 +18163,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-01-17 19:11:39 +0000"
@@ -18128,6 +18187,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/sculk_grime_bricks": {
+    "criteria": {
+      "has_grime_brick": "2025-01-17 22:17:14 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -18143,6 +18208,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_table": {
     "criteria": {
       "has_crimson_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_gloomy_cactus": "2025-01-17 22:02:30 +0000"
     },
     "done": false
   },
@@ -18377,6 +18448,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/tools/warden_shovel_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_chair": {
     "criteria": {
       "has_log": "2025-01-17 19:11:36 +0000",
@@ -18399,6 +18476,12 @@
   "mcwbridges:recipes/diorite_bridge": {
     "criteria": {
       "has_planks": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/tools/warden_hoe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-01-17 21:49:25 +0000"
     },
     "done": false
   },

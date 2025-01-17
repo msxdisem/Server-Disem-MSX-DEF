@@ -2525,3 +2525,222 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 21:47:31.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [From The Shadows]
 [17Jan2025 21:48:43.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Sculk Engineer]
 [17Jan2025 21:49:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Sculk Engineer]
+[17Jan2025 21:52:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Celestial Hot Stuff]
+[17Jan2025 21:53:48.698] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Liraanto[/100.109.72.127:55854] logged in with entity id 164352 at (649.5, 108.0, -340.5)
+[17Jan2025 21:53:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto joined the game
+[17Jan2025 21:53:48.814] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 21:53:48.815] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 21:53:48.815] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 21:53:48.816] [Server thread/INFO] [Jade/]: Syncing config to Liraanto (e3fa7a24-a6b1-32a9-9e1d-42523f649c73)
+[17Jan2025 21:53:50.018] [Netty Epoll Server IO #0/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Liraanto: protocol version: 2.0
+[17Jan2025 21:55:28.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[17Jan2025 21:55:28.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[17Jan2025 21:55:28.420] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[17Jan2025 21:55:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 244.500000, 63.500000, -1052.500000]
+[17Jan2025 21:56:07.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[17Jan2025 21:56:14.631] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:56:14.632] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:57:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:57:58.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17Jan2025 21:58:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[17Jan2025 21:58:03.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved wrongly!
+[17Jan2025 21:58:04.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved wrongly!
+[17Jan2025 21:58:04.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved wrongly!
+[17Jan2025 21:58:05.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved wrongly!
+[17Jan2025 21:58:06.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved wrongly!
+[17Jan2025 21:58:17.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 255.500000, 72.500000, -1206.500000]
+[17Jan2025 21:58:22.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:58:22.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9777ms or 195 ticks behind
+[17Jan2025 21:58:28.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 252.500000, 63.500000, -1210.500000]
+[17Jan2025 21:58:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:atlantis:A:264:71:-1213:4:false:0:Internal-overworld-waypoints
+[17Jan2025 21:58:41.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 244.500000, 63.500000, -1052.500000]
+[17Jan2025 21:58:43.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 244.500000, 63.500000, -1052.500000]
+[17Jan2025 21:58:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[17Jan2025 21:58:46.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 1.799370712411303,-32.799999952316284,-1.7993737522481297
+[17Jan2025 21:58:49.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 2.2728365459215354,-32.799999952316284,-2.2728395857584474
+[17Jan2025 21:58:52.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Below the Bedrock]
+[17Jan2025 21:58:52.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved too quickly! -1.1986374497578538,-32.799999952316284,1.1986344099209418
+[17Jan2025 21:58:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [Abyssal Descent]
+[17Jan2025 21:59:29.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 21:59:39.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[17Jan2025 22:00:40.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 22:00:54.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 73.500000, 58.500000, -1309.500000]
+[17Jan2025 22:01:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -50.500000, 80.500000, -1241.500000]
+[17Jan2025 22:01:22.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -43.500000, 119.500000, -1108.500000]
+[17Jan2025 22:01:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 181.500000, 32.500000, -1218.500000]
+[17Jan2025 22:01:33.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 425.500000, 39.500000, -1032.500000]
+[17Jan2025 22:01:38.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -175.500000, 55.500000, -1061.500000]
+[17Jan2025 22:01:46.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -185.500000, 40.500000, -1313.500000]
+[17Jan2025 22:02:13.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -282.500000, 79.500000, -1199.500000]
+[17Jan2025 22:02:15.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 37.500000, 18.500000, -1315.500000]
+[17Jan2025 22:02:24.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -377.500000, 28.500000, -1140.500000]
+[17Jan2025 22:02:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Echolocation]
+[17Jan2025 22:02:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 105.500000, 17.500000, -1467.500000]
+[17Jan2025 22:02:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -417.500000, 119.500000, -1115.500000]
+[17Jan2025 22:03:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -435.500000, 82.500000, -1280.500000]
+[17Jan2025 22:03:20.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 260.500000, 46.500000, -1045.500000]
+[17Jan2025 22:03:33.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 261.500000, 27.500000, -1052.500000]
+[17Jan2025 22:03:40.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:fortress 1:F:261:26:-1053:2:false:0:Internal-dim%deeperdarker$otherside-waypoints
+[17Jan2025 22:03:45.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -65.500000, 17.500000, -1192.500000]
+[17Jan2025 22:03:47.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 346.500000, 120.500000, -1229.500000]
+[17Jan2025 22:04:07.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -518.500000, 37.500000, -1406.500000]
+[17Jan2025 22:04:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 271.500000, 116.500000, -1346.500000]
+[17Jan2025 22:04:24.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -624.500000, 101.500000, -1344.500000]
+[17Jan2025 22:04:25.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -212.500000, 17.500000, -1271.500000]
+[17Jan2025 22:04:25.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 127.500000, 120.500000, -1286.500000]
+[17Jan2025 22:04:35.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -728.500000, 116.500000, -1261.500000]
+[17Jan2025 22:04:38.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 131.500000, 117.500000, -1284.500000]
+[17Jan2025 22:04:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -776.500000, 111.500000, -1147.500000]
+[17Jan2025 22:05:00.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -265.500000, 17.500000, -1166.500000]
+[17Jan2025 22:05:05.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -850.500000, 100.500000, -1028.500000]
+[17Jan2025 22:05:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -0.500000, 80.500000, -1376.500000]
+[17Jan2025 22:05:20.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -846.500000, 55.500000, -927.500000]
+[17Jan2025 22:05:31.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -845.500000, 79.500000, -793.500000]
+[17Jan2025 22:05:44.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -837.500000, 120.500000, -668.500000]
+[17Jan2025 22:05:47.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -117.500000, 72.500000, -1255.500000]
+[17Jan2025 22:05:48.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has completed the challenge [Echolocation]
+[17Jan2025 22:05:55.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -864.500000, 102.500000, -539.500000]
+[17Jan2025 22:06:05.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -856.500000, 83.500000, -412.500000]
+[17Jan2025 22:06:07.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -332.500000, 19.500000, -946.500000]
+[17Jan2025 22:06:10.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -320.500000, 55.500000, -1257.500000]
+[17Jan2025 22:06:22.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -891.500000, 70.500000, -309.500000]
+[17Jan2025 22:06:29.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -373.500000, 23.500000, -850.500000]
+[17Jan2025 22:06:38.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1022.500000, 98.500000, -331.500000]
+[17Jan2025 22:06:45.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -422.500000, 34.500000, -1271.500000]
+[17Jan2025 22:06:48.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1054.500000, 116.500000, -373.500000]
+[17Jan2025 22:06:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [STRANJO] all hail RAATMA!!
+[17Jan2025 22:06:59.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [STRANJO] all hail RAATMA!!
+[17Jan2025 22:06:59.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [STRANJO] all hail RAATMA!!
+[17Jan2025 22:06:59.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [STRANJO] all hail RAATMA!!
+[17Jan2025 22:07:00.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [STRANJO] all hail RAATMA!!
+[17Jan2025 22:07:01.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [STRANJO] all hail RAATMA!!
+[17Jan2025 22:07:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [STRANJO] all hail RAATMA!!
+[17Jan2025 22:07:02.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [STRANJO] all hail RAATMA!!
+[17Jan2025 22:07:05.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -420.500000, 63.500000, -1272.500000]
+[17Jan2025 22:07:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1157.500000, 104.500000, -254.500000]
+[17Jan2025 22:07:22.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -485.500000, 17.500000, -723.500000]
+[17Jan2025 22:07:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -587.500000, 52.500000, -1333.500000]
+[17Jan2025 22:07:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1161.500000, 63.500000, -121.500000]
+[17Jan2025 22:07:45.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1155.500000, 110.500000, -7.500000]
+[17Jan2025 22:07:58.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1150.500000, 51.500000, 113.500000]
+[17Jan2025 22:08:00.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -613.500000, 20.500000, -652.500000]
+[17Jan2025 22:08:11.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1249.500000, 115.500000, 222.500000]
+[17Jan2025 22:08:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -527.500000, 119.500000, -1513.500000]
+[17Jan2025 22:08:23.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1334.500000, 116.500000, 328.500000]
+[17Jan2025 22:08:24.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -591.500000, 116.500000, -674.500000]
+[17Jan2025 22:08:31.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -733.500000, 104.500000, -1404.500000]
+[17Jan2025 22:08:36.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Ferj2202] all hail RAATMA!!
+[17Jan2025 22:08:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Ferj2202] all hail RAATMA!!
+[17Jan2025 22:08:41.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1348.500000, 56.500000, 415.500000]
+[17Jan2025 22:08:45.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -734.500000, 109.500000, -642.500000]
+[17Jan2025 22:08:53.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1446.500000, 82.500000, 514.500000]
+[17Jan2025 22:09:23.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -892.500000, 114.500000, -593.500000]
+[17Jan2025 22:09:25.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -872.500000, 87.500000, -1386.500000]
+[17Jan2025 22:09:30.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -778.500000, 116.500000, -1563.500000]
+[17Jan2025 22:09:31.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -835.500000, 108.500000, -645.500000]
+[17Jan2025 22:09:38.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Eguaro] all hail RAATMA!!
+[17Jan2025 22:09:39.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Eguaro] all hail RAATMA!!
+[17Jan2025 22:09:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Eguaro] all hail RAATMA!!
+[17Jan2025 22:09:44.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Eguaro] all hail RAATMA!!
+[17Jan2025 22:09:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Eguaro] all hail RAATMA!!
+[17Jan2025 22:09:46.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Eguaro] all hail RAATMA!!
+[17Jan2025 22:09:51.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -857.500000, 77.500000, -676.500000]
+[17Jan2025 22:09:56.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -796.500000, 97.500000, -1716.500000]
+[17Jan2025 22:10:05.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1028.500000, 109.500000, -683.500000]
+[17Jan2025 22:10:09.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1497.500000, 103.500000, 637.500000]
+[17Jan2025 22:10:12.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -943.500000, 71.500000, -1325.500000]
+[17Jan2025 22:10:19.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1066.500000, 109.500000, -650.500000]
+[17Jan2025 22:10:31.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1611.500000, 37.500000, 730.500000]
+[17Jan2025 22:10:34.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -960.500000, 60.500000, -1206.500000]
+[17Jan2025 22:10:35.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1116.500000, 102.500000, -646.500000]
+[17Jan2025 22:10:38.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -972.500000, 116.500000, -1204.500000]
+[17Jan2025 22:10:45.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1071.500000, 115.500000, -1218.500000]
+[17Jan2025 22:10:56.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1211.500000, 100.500000, -527.500000]
+[17Jan2025 22:10:57.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1496.500000, 87.500000, 837.500000]
+[17Jan2025 22:10:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1159.500000, 97.500000, -1238.500000]
+[17Jan2025 22:11:03.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1165.500000, 33.500000, -1246.500000]
+[17Jan2025 22:11:06.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1513.500000, 101.500000, 902.500000]
+[17Jan2025 22:11:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eguaro> xaero-waypoint:Templo Warden:T:-1180:39:-1251:14:false:0:Internal-dim%deeperdarker$otherside-waypoints
+[17Jan2025 22:11:51.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1179.500000, 39.500000, -1250.500000]
+[17Jan2025 22:12:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Warden
+[17Jan2025 22:12:26.987] [Server thread/INFO] [tombstone/]: The player Eguaro has successfully been saved
+[17Jan2025 22:12:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 was obliterated by a sonically-charged shriek
+[17Jan2025 22:12:39.589] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
+[17Jan2025 22:12:40.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
+[17Jan2025 22:12:45.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Eguaro]
+[17Jan2025 22:12:46.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1190.500000, 39.500000, -1265.500000]
+[17Jan2025 22:13:02.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was obliterated by a sonically-charged shriek
+[17Jan2025 22:13:02.677] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[17Jan2025 22:13:08.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 22:13:10.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1516.500000, 29.500000, 922.500000]
+[17Jan2025 22:13:43.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Stalker
+[17Jan2025 22:13:43.826] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[17Jan2025 22:13:48.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 22:13:52.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1517.500000, 35.500000, 911.500000]
+[17Jan2025 22:13:55.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[17Jan2025 22:14:03.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 was slain by Warden
+[17Jan2025 22:14:03.485] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
+[17Jan2025 22:14:12.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[17Jan2025 22:15:17.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 was doomed to fall by Warden
+[17Jan2025 22:15:17.840] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
+[17Jan2025 22:15:23.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[17Jan2025 22:15:58.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was obliterated by a sonically-charged shriek
+[17Jan2025 22:15:58.084] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[17Jan2025 22:16:03.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 22:16:05.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to -1525.500000, 36.500000, 894.500000]
+[17Jan2025 22:16:21.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1182.500000, 54.500000, -1254.500000]
+[17Jan2025 22:16:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Warden
+[17Jan2025 22:16:45.573] [Server thread/INFO] [tombstone/]: The player Eguaro has successfully been saved
+[17Jan2025 22:16:49.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 22:16:51.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
+[17Jan2025 22:16:53.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1184.500000, 52.500000, -1260.500000]
+[17Jan2025 22:17:02.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Warden
+[17Jan2025 22:17:02.675] [Server thread/INFO] [tombstone/]: The player Eguaro has successfully been saved
+[17Jan2025 22:17:07.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
+[17Jan2025 22:17:08.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1184.500000, 52.500000, -1260.500000]
+[17Jan2025 22:17:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has completed the challenge [Phantom Thief]
+[17Jan2025 22:18:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Sculk Slayer]
+[17Jan2025 22:18:07.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1254.500000, 86.500000, -1453.500000]
+[17Jan2025 22:18:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1165.500000, 33.500000, -1245.500000]
+[17Jan2025 22:18:50.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1337.500000, 33.500000, -1182.500000]
+[17Jan2025 22:19:10.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1486.500000, 103.500000, -1231.500000]
+[17Jan2025 22:19:29.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1614.500000, 44.500000, -1383.500000]
+[17Jan2025 22:19:41.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:portal warden (dimension)}:P:1293:34:-977:10:false:0:Internal-dim%deeperdarker$otherside-waypoints
+[17Jan2025 22:19:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1293.500000, 34.500000, -976.500000]
+[17Jan2025 22:19:56.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! -4.881620407104492E-5,-63.799999952316284,0.0
+[17Jan2025 22:19:59.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17Jan2025 22:20:02.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -1764.500000, 103.500000, -1427.500000]
+[17Jan2025 22:20:28.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[17Jan2025 22:20:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 261.500000, 26.500000, -1052.500000]
+[17Jan2025 22:20:33.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
+[17Jan2025 22:20:33.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 16.7617308870731,-4.266346140277065,2.1368891119111595
+[17Jan2025 22:20:33.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1293.500000, 34.500000, -976.500000]
+[17Jan2025 22:20:33.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [A Metropolis of Restless Souls]
+[17Jan2025 22:20:36.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! -4.881620407104492E-5,-63.799999952316284,0.0
+[17Jan2025 22:21:05.818] [Worker-Main-210/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1518, y=36, z=-777}
+[17Jan2025 22:21:21.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
+[17Jan2025 22:21:21.334] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[17Jan2025 22:21:27.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[17Jan2025 22:21:36.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[17Jan2025 22:23:04.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17Jan2025 22:23:30.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17Jan2025 22:23:42.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1284, y=-52, z=-1077} BlockPos{x=1283, y=-52, z=-1077}
+[17Jan2025 22:23:42.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1286, y=-51, z=-1076} BlockPos{x=1285, y=-52, z=-1076}
+[17Jan2025 22:23:42.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1286, y=-51, z=-1076} BlockPos{x=1285, y=-52, z=-1076}
+[17Jan2025 22:23:42.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1286, y=-51, z=-1076} BlockPos{x=1285, y=-52, z=-1076}
+[17Jan2025 22:23:47.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[17Jan2025 22:24:05.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3165ms or 63 ticks behind
+[17Jan2025 22:24:13.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1261.500000, -50.500000, -920.500000]
+[17Jan2025 22:24:21.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 610.500000, 76.500000, -2727.500000]
+[17Jan2025 22:24:21.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 8.009731063589697,11.470882155593259,11.259440880863053
+[17Jan2025 22:24:26.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5617ms or 112 ticks behind
+[17Jan2025 22:24:44.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 728.500000, 63.500000, -378.500000]
+[17Jan2025 22:24:45.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[17Jan2025 22:24:49.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 22:24:49.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 609.500000, 76.500000, -2734.500000]
+[17Jan2025 22:27:44.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 22:28:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [What a Deal!]
+[17Jan2025 22:28:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [First Trade]
+[17Jan2025 22:29:12.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 676.500000, 117.500000, -340.500000]
+[17Jan2025 22:29:53.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:portal nether (superficie):P:55:65:274:9:false:0:Internal-overworld-waypoints
+[17Jan2025 22:29:55.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Portal Nether:P:53:66:277:14:false:0:Internal-overworld-waypoints
