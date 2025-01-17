@@ -2379,3 +2379,66 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 21:18:14.348] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2251, y=-41, z=627}
 [17Jan2025 21:18:14.348] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2250, y=-41, z=627}
 [17Jan2025 21:18:21.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11913ms or 238 ticks behind
+[17Jan2025 21:18:53.727] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2383, y=-12, z=474}
+[17Jan2025 21:18:53.727] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2384, y=-12, z=474}
+[17Jan2025 21:18:56.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[17Jan2025 21:18:57.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20693ms or 413 ticks behind
+[17Jan2025 21:19:15.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
+[17Jan2025 21:19:42.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12010ms or 240 ticks behind
+[17Jan2025 21:19:43.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:ancient city:A:1307:-51:-1066:6:false:0:Internal-overworld-waypoints
+[17Jan2025 21:20:00.731] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:20:09.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11165ms or 223 ticks behind
+[17Jan2025 21:20:36.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12153ms or 243 ticks behind
+[17Jan2025 21:20:38.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:20:38.983] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:20:54.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:20:54.031] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:20:58.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by The Moonflower
+[17Jan2025 21:20:58.482] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[17Jan2025 21:21:00.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9747ms or 194 ticks behind
+[17Jan2025 21:21:03.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 2448.500000, 94.500000, 717.500000]
+[17Jan2025 21:21:06.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[17Jan2025 21:21:17.630] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2444, y=-23, z=501}
+[17Jan2025 21:22:06.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[17Jan2025 21:22:34.033] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=399}
+[17Jan2025 21:22:34.034] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=399}
+[17Jan2025 21:22:34.034] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=397}
+[17Jan2025 21:22:34.034] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=397}
+[17Jan2025 21:22:34.034] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=396}
+[17Jan2025 21:22:34.034] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=396}
+[17Jan2025 21:22:34.034] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2471, y=-42, z=399}
+[17Jan2025 21:22:34.034] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2471, y=-42, z=399}
+[17Jan2025 21:22:34.034] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2468, y=-39, z=397}
+[17Jan2025 21:22:34.035] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2468, y=-39, z=397}
+[17Jan2025 21:22:34.035] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=399}
+[17Jan2025 21:22:34.035] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=397}
+[17Jan2025 21:22:34.036] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2470, y=-42, z=396}
+[17Jan2025 21:22:34.036] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2471, y=-42, z=399}
+[17Jan2025 21:22:34.036] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2468, y=-39, z=397}
+[17Jan2025 21:22:46.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17Jan2025 21:23:03.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[17Jan2025 21:23:25.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[17Jan2025 21:23:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[17Jan2025 21:23:32.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[17Jan2025 21:23:32.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[17Jan2025 21:23:32.862] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[17Jan2025 21:25:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 21:26:27.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 244.500000, 63.500000, -1052.500000]
+[17Jan2025 21:26:29.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 1.513355159404739,-32.799999952316284,-1.5133581992415657
+[17Jan2025 21:26:37.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 322.500000, 64.500000, -1095.500000]
+[17Jan2025 21:26:59.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 196.500000, 91.500000, -1174.500000]
+[17Jan2025 21:27:14.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1307.500000, -50.500000, -1065.500000]
+[17Jan2025 21:28:01.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=150, y=101, z=-1140} BlockPos{x=149, y=100, z=-1140}
+[17Jan2025 21:28:01.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=150, y=101, z=-1140} BlockPos{x=149, y=100, z=-1140}
+[17Jan2025 21:28:07.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1268, y=-52, z=-1043} BlockPos{x=1269, y=-53, z=-1045}
+[17Jan2025 21:28:13.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:62835] logged in with entity id 153493 at (646.2717492824073, 108.0, -338.9408963417575)
+[17Jan2025 21:28:13.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[17Jan2025 21:28:13.488] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 21:28:13.488] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 21:28:13.488] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 21:28:13.492] [Server thread/INFO] [Jade/]: Syncing config to Eguaro (700ed6dc-3302-30de-8a1d-bb4738984f48)
+[17Jan2025 21:28:16.448] [Netty Epoll Server IO #5/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Eguaro: protocol version: 2.0
+[17Jan2025 21:28:18.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made Eguaro a server operator]
+[17Jan2025 21:28:21.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1276, y=-52, z=-1038} BlockPos{x=1277, y=-52, z=-1039}
+[17Jan2025 21:28:42.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:biblioteca end (lo que queda):B:-1302:0:-1124:15:false:0:Internal-overworld-waypoints
+[17Jan2025 21:29:03.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1284.500000, -47.500000, -971.500000]

@@ -5400,6 +5400,7 @@
       "erupting_inferno": "2024-12-30 02:11:38 +0000",
       "floodplain": "2024-12-31 03:29:50 +0000",
       "lush_savanna": "2025-01-13 23:03:00 +0000",
+      "highland": "2025-01-17 21:25:54 +0000",
       "jacaranda_glade": "2024-12-28 23:16:44 +0000",
       "jade_cliffs": "2024-12-31 03:38:34 +0000",
       "mystic_grove": "2025-01-01 00:20:32 +0000",
@@ -17456,6 +17457,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-17 21:28:25 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -17471,6 +17478,12 @@
   "deeperdarker:recipes/building_blocks/polished_gloomslate": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-01-17 21:26:18 +0000"
     },
     "done": false
   },
@@ -17578,6 +17591,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-17 21:17:47 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -17613,6 +17632,12 @@
       "egg": "2025-01-17 19:20:19 +0000"
     },
     "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-01-17 21:26:53 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/crimson_coffee_table": {
     "criteria": {
@@ -17663,6 +17688,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_slab": {
+    "criteria": {
+      "has_sculk_stone": "2025-01-17 21:26:53 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -17693,6 +17724,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs": {
+    "criteria": {
+      "has_sculk_stone": "2025-01-17 21:26:53 +0000"
+    },
+    "done": false
+  },
   "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:void_blossom": "2025-01-17 19:00:59 +0000"
@@ -17708,6 +17745,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-01-17 21:26:33 +0000"
     },
     "done": false
   },
@@ -17745,6 +17788,12 @@
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_claw_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-01-17 21:17:55 +0000"
     },
     "done": false
   },
@@ -17821,6 +17870,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab_from_cut_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-01-17 21:26:33 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/redstone/bloom_button": {
     "criteria": {
       "has_planks": "2025-01-17 21:03:43 +0000"
@@ -17836,6 +17891,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-01-17 21:17:55 +0000"
     },
     "done": false
   },
@@ -17857,6 +17918,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_stairs_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-01-17 21:26:53 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_throwing_axe_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
@@ -17872,6 +17939,12 @@
   "deeperdarker:recipes/redstone/bloom_pressure_plate": {
     "criteria": {
       "has_bloom_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs_from_cut_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-01-17 21:26:33 +0000"
     },
     "done": false
   },
@@ -17905,11 +17978,29 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-17 21:17:53 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:parry": {
     "criteria": {
       "parry_0": "2025-01-17 18:17:04 +0000"
     },
     "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_wall_from_cut_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-01-17 21:26:33 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-17 21:17:53 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
@@ -17941,6 +18032,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall": {
+    "criteria": {
+      "has_sculk_stone": "2025-01-17 21:26:53 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_table": {
     "criteria": {
       "has_crimson_planks": "2025-01-17 19:11:39 +0000"
@@ -17959,9 +18056,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-01-17 21:26:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-01-17 21:17:53 +0000"
     },
     "done": false
   },
@@ -17999,6 +18108,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate_bricks_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/smooth_sculk_stone": {
+    "criteria": {
+      "has_sculk_stone": "2025-01-17 21:26:53 +0000"
     },
     "done": false
   },
@@ -18063,6 +18178,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_sculk_stone": "2025-01-17 21:26:53 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/bloom_stairs": {
     "criteria": {
       "has_planks": "2025-01-17 21:03:43 +0000"
@@ -18078,6 +18199,12 @@
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-17 21:17:53 +0000"
     },
     "done": false
   },
@@ -18219,6 +18346,18 @@
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_battle_axe_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-01-17 21:17:53 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cut_sculk_stone_wall": {
+    "criteria": {
+      "has_cut_sculk_stone": "2025-01-17 21:26:33 +0000"
     },
     "done": false
   },
