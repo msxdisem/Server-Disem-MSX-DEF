@@ -558,7 +558,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
-      "has_stick": "2024-12-29 22:29:50 +0000"
+      "has_stick": "2024-12-29 22:29:50 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -645,7 +646,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
-      "has_stick": "2024-12-29 22:29:50 +0000"
+      "has_stick": "2024-12-29 22:29:50 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -1152,6 +1154,7 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-29 22:31:42 +0000",
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000",
       "has_iron_ingot": "2024-12-29 23:35:48 +0000"
     },
     "done": false
@@ -1820,7 +1823,8 @@
   },
   "supplementaries:recipes/candy": {
     "criteria": {
-      "has_paper": "2024-12-29 22:37:56 +0000"
+      "has_paper": "2024-12-29 22:37:56 +0000",
+      "has_honey_bottle": "2025-01-17 21:38:33 +0000"
     },
     "done": false
   },
@@ -3126,6 +3130,7 @@
   },
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
+      "has_bottom": "2025-01-17 21:37:47 +0000",
       "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
@@ -3176,7 +3181,8 @@
   },
   "cfm:recipes/decorations/purple_kitchen_sink": {
     "criteria": {
-      "has_bucket": "2024-12-29 22:51:00 +0000"
+      "has_bucket": "2024-12-29 22:51:00 +0000",
+      "has_top": "2025-01-17 21:37:48 +0000"
     },
     "done": false
   },
@@ -3273,6 +3279,7 @@
   },
   "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
     "criteria": {
+      "has_bottom": "2025-01-17 21:37:47 +0000",
       "has_bucket": "2024-12-29 22:51:00 +0000"
     },
     "done": false
@@ -3312,7 +3319,8 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_light_ceiling_fan": {
     "criteria": {
       "has_redstone": "2024-12-29 22:51:31 +0000",
-      "has_iron_ingot": "2024-12-29 23:35:48 +0000"
+      "has_iron_ingot": "2024-12-29 23:35:48 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -3526,6 +3534,7 @@
   },
   "minecraft:recipes/redstone/target": {
     "criteria": {
+      "has_hay_block": "2025-01-17 21:39:17 +0000",
       "has_redstone": "2024-12-29 22:51:31 +0000"
     },
     "done": false
@@ -4667,7 +4676,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
     "criteria": {
-      "has_white_dye": "2024-12-29 23:13:04 +0000"
+      "has_white_dye": "2024-12-29 23:13:04 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -4749,7 +4759,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
-      "has_white_dye": "2024-12-29 23:13:04 +0000"
+      "has_white_dye": "2024-12-29 23:13:04 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -4893,7 +4904,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
     "criteria": {
-      "has_white_dye": "2024-12-29 23:13:04 +0000"
+      "has_white_dye": "2024-12-29 23:13:04 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -4944,6 +4956,7 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_white_dye": "2024-12-29 23:13:04 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000",
       "has_copper_ingot": "2024-12-29 23:45:05 +0000"
     },
     "done": false
@@ -5414,6 +5427,7 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 23:35:48 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000",
       "has_copper_ingot": "2024-12-29 23:45:05 +0000"
     },
     "done": false
@@ -5747,6 +5761,7 @@
   },
   "cfm:recipes/decorations/purple_grill": {
     "criteria": {
+      "has_terracotta": "2025-01-17 21:37:48 +0000",
       "has_iron": "2024-12-29 23:35:48 +0000"
     },
     "done": false
@@ -5976,7 +5991,8 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
-      "has_iron_ingot": "2024-12-29 23:35:48 +0000"
+      "has_iron_ingot": "2024-12-29 23:35:48 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -5995,6 +6011,7 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 23:35:48 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000",
       "has_copper_ingot": "2024-12-29 23:45:05 +0000"
     },
     "done": false
@@ -6354,6 +6371,7 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 23:35:48 +0000",
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000",
       "has_copper_ingot": "2024-12-29 23:45:05 +0000"
     },
     "done": false
@@ -10789,9 +10807,10 @@
   },
   "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
     "criteria": {
-      "has_warden_upgrade_smithing_template": "2025-01-04 03:12:15 +0000"
+      "has_warden_upgrade_smithing_template": "2025-01-04 03:12:15 +0000",
+      "has_the_recipe": "2025-01-17 21:46:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
     "criteria": {
@@ -12356,6 +12375,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-01-17 21:37:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-17 21:40:22 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:01:22 +0000"
@@ -12380,15 +12411,51 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/crimson_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-01-17 20:14:30 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_bricks": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12398,9 +12465,33 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall_from_polished_sculk_stone_stonecutting": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12428,9 +12519,27 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:quartz_flats": "2025-01-17 19:41:31 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12445,6 +12554,18 @@
       "entered_end": "2025-01-17 20:43:05 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/crimson_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
@@ -12464,6 +12585,12 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/crimson_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-01-17 20:44:04 +0000"
@@ -12476,9 +12603,33 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/purple_cooler": {
+    "criteria": {
+      "has_terracotta": "2025-01-17 21:37:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:01:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-17 21:38:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-17 21:38:33 +0000"
     },
     "done": false
   },
@@ -12488,9 +12639,21 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-01-17 19:46:13 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12530,15 +12693,39 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_polished_sculk_stone_stonecutting": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
     },
     "done": false
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-17 21:43:35 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
   "morevillagers:recipes/purpur_altar": {
     "criteria": {
       "has_end_stone": "2025-01-17 20:44:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12560,9 +12747,27 @@
     },
     "done": false
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-17 21:38:10 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-17 21:39:17 +0000"
     },
     "done": false
   },
@@ -12578,6 +12783,12 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_polished_sculk_stone_stonecutting": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
@@ -12590,9 +12801,27 @@
     },
     "done": false
   },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-01-17 21:47:31 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:quartz_flats": "2025-01-17 19:41:31 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12605,6 +12834,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:01:22 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12626,10 +12861,34 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-01-17 19:44:38 +0000",
       "killed": "2025-01-17 19:44:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12651,15 +12910,39 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-17 21:41:13 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:01:22 +0000"
     },
     "done": false
   },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_polished_sculk_stone_stonecutting": {
     "criteria": {
       "has_polished_sculk_stone": "2025-01-17 20:58:46 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },
@@ -12693,9 +12976,40 @@
     },
     "done": false
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-01-17 20:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-17 21:39:17 +0000",
+      "has_the_recipe": "2025-01-17 21:39:28 +0000"
     },
     "done": true
   },
@@ -12708,6 +13022,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-17 20:44:04 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/rope_crimson_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:37:47 +0000"
     },
     "done": false
   },

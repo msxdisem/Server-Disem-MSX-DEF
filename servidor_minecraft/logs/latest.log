@@ -2442,3 +2442,86 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 21:28:21.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1276, y=-52, z=-1038} BlockPos{x=1277, y=-52, z=-1039}
 [17Jan2025 21:28:42.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:biblioteca end (lo que queda):B:-1302:0:-1124:15:false:0:Internal-overworld-waypoints
 [17Jan2025 21:29:03.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1284.500000, -47.500000, -971.500000]
+[17Jan2025 21:29:23.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[17Jan2025 21:29:29.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:29:39.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 6712.500000, 226.500000, -5645.500000]
+[17Jan2025 21:29:39.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 21:29:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Ghost Riders In The Sky]
+[17Jan2025 21:29:44.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5897ms or 117 ticks behind
+[17Jan2025 21:29:48.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Spooky Scary Skeleton]
+[17Jan2025 21:30:33.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[17Jan2025 21:30:37.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! -0.5146824470932643,67.99866402088784,0.0
+[17Jan2025 21:30:51.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:portal warden (dimension)}:P:1293:34:-977:10:false:0:Internal-dim%deeperdarker$otherside-waypoints
+[17Jan2025 21:30:54.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! -4.881620407104492E-5,-63.799999952316284,0.0
+[17Jan2025 21:31:39.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[17Jan2025 21:32:30.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Blast Protection Not Included]
+[17Jan2025 21:32:35.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Magic Writing]
+[17Jan2025 21:32:41.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has reached the goal [Great minds think alike]
+[17Jan2025 21:33:59.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Timed out
+[17Jan2025 21:33:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[17Jan2025 21:33:59.290] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[17Jan2025 21:34:29.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:62873] logged in with entity id 157552 at (6736.379094091146, 216.0, -5645.4806166403705)
+[17Jan2025 21:34:29.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[17Jan2025 21:34:29.285] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 21:34:29.285] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 21:34:29.285] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 21:34:29.289] [Server thread/INFO] [Jade/]: Syncing config to Eguaro (700ed6dc-3302-30de-8a1d-bb4738984f48)
+[17Jan2025 21:34:30.002] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Eguaro: protocol version: 2.0
+[17Jan2025 21:35:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro was slain by Wither Skeleton
+[17Jan2025 21:35:18.182] [Server thread/INFO] [tombstone/]: The player Eguaro has successfully been saved
+[17Jan2025 21:35:29.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro lost connection: Timed out
+[17Jan2025 21:35:29.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro left the game
+[17Jan2025 21:35:29.472] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[17Jan2025 21:35:51.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eguaro[/100.94.15.45:62880] logged in with entity id 157974 at (6736.379094091146, 216.0, -5645.4806166403705)
+[17Jan2025 21:35:51.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro joined the game
+[17Jan2025 21:35:51.163] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[17Jan2025 21:35:51.163] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[17Jan2025 21:35:51.163] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[17Jan2025 21:35:51.165] [Server thread/INFO] [Jade/]: Syncing config to Eguaro (700ed6dc-3302-30de-8a1d-bb4738984f48)
+[17Jan2025 21:35:51.643] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Eguaro: protocol version: 2.0
+[17Jan2025 21:36:00.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[17Jan2025 21:36:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 6736.500000, 216.500000, -5645.500000]
+[17Jan2025 21:36:47.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -1132.500000, 63.500000, -1210.500000]
+[17Jan2025 21:36:47.806] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:36:52.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -2886.500000, 82.500000, 5784.500000]
+[17Jan2025 21:36:52.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[17Jan2025 21:37:00.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -2866.500000, 110.500000, 5817.500000]
+[17Jan2025 21:37:00.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:38:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [Fortuitous Militia]
+[17Jan2025 21:39:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [Not Too Hot to Handle]
+[17Jan2025 21:39:12.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:39:12.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:39:12.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:39:33.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[17Jan2025 21:39:42.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Eguaro> xaero-waypoint:Barco Volador (Phamtom Spawns):B:6712:226:-5646:11:false:0:Internal-overworld-waypoints
+[17Jan2025 21:40:09.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:40:22.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Not Today, Thank You]
+[17Jan2025 21:40:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Set the weather to clear]
+[17Jan2025 21:41:21.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [From The Shadows]
+[17Jan2025 21:41:43.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:42:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:42:50.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -2742.500000, 165.500000, 5752.500000]
+[17Jan2025 21:42:50.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:42:50.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:42:50.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:43:03.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:43:42.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 fell from a high place
+[17Jan2025 21:43:42.135] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
+[17Jan2025 21:43:45.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -2725.500000, 135.500000, 5750.500000]
+[17Jan2025 21:44:25.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:44:25.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:44:25.852] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:44:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to -2589.500000, 101.500000, 5881.500000]
+[17Jan2025 21:44:40.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:44:40.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:44:40.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:44:51.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:45:49.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 676.500000, 117.500000, -340.500000]
+[17Jan2025 21:45:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 649.500000, 108.500000, -340.500000]
+[17Jan2025 21:46:01.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:CASITA:C:676:117:-341:9:false:0:Internal-overworld-waypoints
+[17Jan2025 21:46:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[17Jan2025 21:46:33.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro has made the advancement [From The Shadows]
+[17Jan2025 21:47:29.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Blast Protection Not Included]
+[17Jan2025 21:47:31.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [From The Shadows]
+[17Jan2025 21:48:43.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Sculk Engineer]
+[17Jan2025 21:49:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Sculk Engineer]

@@ -121,8 +121,10 @@
       "minecraft:sparse_jungle": "2024-12-31 23:21:46 +0000",
       "minecraft:river": "2024-12-24 00:25:06 +0000",
       "minecraft:lukewarm_ocean": "2024-12-25 23:42:36 +0000",
+      "minecraft:stony_shore": "2025-01-17 21:37:21 +0000",
       "minecraft:dripstone_caves": "2024-12-31 23:22:03 +0000",
       "minecraft:jagged_peaks": "2024-12-31 23:31:06 +0000",
+      "minecraft:cold_ocean": "2025-01-17 21:37:28 +0000",
       "minecraft:forest": "2024-12-24 00:04:34 +0000",
       "minecraft:lush_caves": "2024-12-24 00:35:58 +0000",
       "minecraft:desert": "2025-01-05 17:56:01 +0000",
@@ -131,6 +133,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-24 00:28:47 +0000",
       "minecraft:warm_ocean": "2024-12-31 03:55:37 +0000",
       "minecraft:flower_forest": "2024-12-31 04:04:53 +0000",
+      "minecraft:frozen_peaks": "2025-01-17 21:43:05 +0000",
       "minecraft:deep_dark": "2024-12-24 06:02:11 +0000",
       "minecraft:meadow": "2024-12-24 02:16:34 +0000",
       "minecraft:savanna": "2024-12-31 04:04:01 +0000",
@@ -2305,6 +2308,7 @@
       "minecraft:piglin": "2024-12-30 02:03:34 +0000",
       "minecraft:enderman": "2024-12-24 03:01:47 +0000",
       "minecraft:silverfish": "2024-12-26 15:45:45 +0000",
+      "minecraft:stray": "2025-01-17 21:44:06 +0000",
       "minecraft:vex": "2024-12-29 04:06:02 +0000",
       "minecraft:zombie": "2024-12-24 00:08:52 +0000",
       "minecraft:drowned": "2024-12-24 05:20:37 +0000",
@@ -2343,6 +2347,7 @@
       "minecraft:piglin": "2024-12-30 02:03:34 +0000",
       "minecraft:enderman": "2024-12-28 23:09:54 +0000",
       "minecraft:silverfish": "2024-12-31 03:26:52 +0000",
+      "minecraft:stray": "2025-01-17 21:44:06 +0000",
       "minecraft:vex": "2024-12-29 04:06:02 +0000",
       "minecraft:zombie": "2024-12-24 00:08:52 +0000",
       "minecraft:drowned": "2024-12-30 00:17:43 +0000",
@@ -9113,9 +9118,10 @@
   },
   "mcwwindows:recipes/diorite": {
     "criteria": {
+      "has_wood": "2025-01-17 21:44:45 +0000",
       "has_the_recipe": "2024-12-25 23:02:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwwindows:recipes/warped": {
     "criteria": {
@@ -17457,12 +17463,6 @@
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-01-17 21:28:25 +0000"
-    },
-    "done": false
-  },
   "deeperdarker:recipes/building_blocks/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -17487,6 +17487,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-01-17 21:37:29 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -17505,6 +17511,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2025-01-17 18:10:52 +0000"
@@ -17515,6 +17527,12 @@
     "criteria": {
       "has_log": "2025-01-17 19:11:36 +0000",
       "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-17 21:38:52 +0000"
     },
     "done": false
   },
@@ -17573,6 +17591,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/chiseled_gloomslate_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -17600,6 +17624,12 @@
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-01-17 21:38:52 +0000"
     },
     "done": false
   },
@@ -17694,6 +17724,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -17730,6 +17766,12 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
   "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:void_blossom": "2025-01-17 19:00:59 +0000"
@@ -17757,6 +17799,12 @@
   "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
     },
     "done": false
   },
@@ -17803,9 +17851,21 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-01-17 21:38:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
     },
     "done": false
   },
@@ -17858,6 +17918,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:allbosseskilled": {
     "criteria": {
       "allbosseskilled_0": "2025-01-17 18:56:03 +0000"
@@ -17873,6 +17939,12 @@
   "deeperdarker:recipes/building_blocks/cut_sculk_stone_slab_from_cut_sculk_stone_stonecutting": {
     "criteria": {
       "has_cut_sculk_stone": "2025-01-17 21:26:33 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:44:45 +0000"
     },
     "done": false
   },
@@ -17897,6 +17969,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-01-17 21:17:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
     },
     "done": false
   },
@@ -17960,6 +18038,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-17 21:43:35 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2025-01-17 18:08:50 +0000"
@@ -18002,6 +18086,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-01-17 21:38:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-01-17 19:11:39 +0000"
@@ -18026,6 +18116,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
@@ -18044,6 +18146,12 @@
     },
     "done": false
   },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-01-17 21:41:21 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_javelin_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
@@ -18055,6 +18163,12 @@
       "hydra_defeat_0": "2025-01-17 18:53:16 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/building_blocks/cut_sculk_stone_stairs": {
     "criteria": {
@@ -18108,6 +18222,12 @@
   "deeperdarker:recipes/building_blocks/gloomslate_bricks_from_cobbled_gloomslate_stonecutting": {
     "criteria": {
       "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
     },
     "done": false
   },
@@ -18178,6 +18298,12 @@
     },
     "done": false
   },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-01-17 21:47:29 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/building_blocks/sculk_stone_wall_from_sculk_stone_stonecutting": {
     "criteria": {
       "has_sculk_stone": "2025-01-17 21:26:53 +0000"
@@ -18187,6 +18313,12 @@
   "deeperdarker:recipes/building_blocks/bloom_stairs": {
     "criteria": {
       "has_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
     },
     "done": false
   },
@@ -18264,6 +18396,12 @@
     },
     "done": false
   },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-17 21:44:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
@@ -18285,6 +18423,12 @@
   "bosses_of_mass_destruction:recipes/earthdive_spear": {
     "criteria": {
       "has_void_thorn": "2025-01-17 19:07:18 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-01-17 21:38:52 +0000"
     },
     "done": false
   },
@@ -18334,6 +18478,12 @@
     "criteria": {
       "has_log": "2025-01-17 19:11:36 +0000",
       "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-17 21:44:45 +0000"
     },
     "done": false
   },
