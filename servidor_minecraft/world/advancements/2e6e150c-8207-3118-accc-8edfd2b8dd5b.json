@@ -8427,7 +8427,8 @@
       "sculk_centipede": "2025-01-01 04:37:47 +0000",
       "sculk_leech": "2025-01-01 04:56:13 +0000",
       "warden": "2024-12-27 04:57:47 +0000",
-      "angler_fish": "2025-01-01 04:55:43 +0000"
+      "angler_fish": "2025-01-01 04:55:43 +0000",
+      "sculk_snapper": "2025-01-17 21:14:22 +0000"
     },
     "done": false
   },
@@ -17455,9 +17456,27 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/gloomslate_tile_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/crimson_upgraded_fence": {
     "criteria": {
       "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
@@ -17541,6 +17560,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/chiseled_gloomslate_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
     "criteria": {
       "has_crimson_planks": "2025-01-17 19:11:39 +0000"
@@ -17550,6 +17575,12 @@
   "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
@@ -17620,9 +17651,21 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/gloomslate_tile_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/building_blocks/bloom_slab": {
     "criteria": {
       "has_bloom_planks": "2025-01-17 21:03:43 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
@@ -17665,6 +17708,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
@@ -17724,6 +17773,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/gloomslate_brick_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
     "criteria": {
       "has_item": "2025-01-17 18:10:52 +0000"
@@ -17733,6 +17788,12 @@
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-01-17 19:11:36 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
@@ -17769,6 +17830,12 @@
   "l2weaponry:recipes/tools/generated/craft/fire_dragonsteel_nunchaku_enchanted": {
     "criteria": {
       "has_dragonsteel_fire_ingot": "2025-01-17 18:10:52 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
@@ -17856,9 +17923,21 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/gloomslate_brick_stairs_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-01-17 19:11:39 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_brick_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
@@ -17886,6 +17965,18 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_tiles_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
@@ -17902,6 +17993,12 @@
   "iceandfire:recipes/tools/dragonsteel_fire_axe": {
     "criteria": {
       "has_item": "2025-01-17 18:10:52 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_bricks_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
     },
     "done": false
   },
@@ -17972,6 +18069,18 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/polished_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_slab_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
@@ -18022,6 +18131,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-01-17 18:40:47 +0000"
@@ -18051,6 +18166,18 @@
       "requirement": "2025-01-17 19:52:46 +0000"
     },
     "done": true
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_gloomslate_wall": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/gloomslate_tile_wall_from_cobbled_gloomslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_gloomslate": "2025-01-17 21:10:14 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
     "criteria": {

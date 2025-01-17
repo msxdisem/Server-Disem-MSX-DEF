@@ -2294,3 +2294,88 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jan2025 21:07:16.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5254ms or 105 ticks behind
 [17Jan2025 21:07:35.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3946ms or 78 ticks behind
 [17Jan2025 21:07:58.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8249ms or 164 ticks behind
+[17Jan2025 21:08:19.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6517ms or 130 ticks behind
+[17Jan2025 21:08:20.037] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1351, y=-22, z=246}
+[17Jan2025 21:08:20.037] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1351, y=-22, z=247}
+[17Jan2025 21:08:31.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 594.500000, 17.500000, -995.500000]
+[17Jan2025 21:08:39.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5017ms or 100 ticks behind
+[17Jan2025 21:08:58.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
+[17Jan2025 21:09:15.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[17Jan2025 21:09:31.981] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1382, y=-4, z=74}
+[17Jan2025 21:09:31.982] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1382, y=-4, z=72}
+[17Jan2025 21:09:34.926] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1392, y=6, z=19}
+[17Jan2025 21:09:39.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17Jan2025 21:09:44.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 605.500000, 87.500000, -852.500000]
+[17Jan2025 21:09:56.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 443.500000, 93.500000, -877.500000]
+[17Jan2025 21:09:58.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[17Jan2025 21:10:16.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[17Jan2025 21:10:26.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 291.500000, 88.500000, -861.500000]
+[17Jan2025 21:10:35.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4132ms or 82 ticks behind
+[17Jan2025 21:10:54.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4366ms or 87 ticks behind
+[17Jan2025 21:11:00.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 252.500000, 87.500000, -968.500000]
+[17Jan2025 21:11:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 688.500000, 109.500000, -813.500000]
+[17Jan2025 21:11:13.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3840ms or 76 ticks behind
+[17Jan2025 21:11:20.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 323.500000, 64.500000, -1096.500000]
+[17Jan2025 21:11:31.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 246.500000, 47.500000, -1042.500000]
+[17Jan2025 21:11:32.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
+[17Jan2025 21:11:36.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:11:43.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto moved too quickly! 9.259737446669078,-2.0554624345250403,3.921197826255991
+[17Jan2025 21:11:53.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[17Jan2025 21:11:58.394] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1538, y=-30, z=319}
+[17Jan2025 21:11:58.394] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1539, y=-30, z=319}
+[17Jan2025 21:12:11.101] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1583, y=-22, z=227}
+[17Jan2025 21:12:22.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was obliterated by a sonically-charged shriek
+[17Jan2025 21:12:22.183] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[17Jan2025 21:12:22.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! -5.54298188640405,7.636170192681902,3.935600802126146
+[17Jan2025 21:12:30.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:12:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 246.500000, 44.500000, -1038.500000]
+[17Jan2025 21:12:42.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 316.500000, 29.500000, -1082.500000]
+[17Jan2025 21:12:58.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/136851, l='ServerLevel[world]', x=1420.50, y=105.94, z=61.53] died, message: 'Unemployed was burnt to a crisp whilst fighting Fire Dragon'
+[17Jan2025 21:13:25.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/138782, l='ServerLevel[world]', x=1425.63, y=68.23, z=84.53] died, message: 'Unemployed burned to death'
+[17Jan2025 21:13:35.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 241.500000, 26.500000, -1046.500000]
+[17Jan2025 21:14:27.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/136817, l='ServerLevel[world]', x=1402.60, y=71.25, z=95.23] died, message: 'Nitwit was burnt to a crisp whilst fighting Fire Dragon'
+[17Jan2025 21:14:39.457] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1648, y=2, z=294}
+[17Jan2025 21:14:52.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1530.500000, 111.500000, 242.500000]
+[17Jan2025 21:14:57.660] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1695, y=-19, z=171}
+[17Jan2025 21:14:57.661] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1695, y=-19, z=170}
+[17Jan2025 21:15:05.286] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1744, y=-26, z=372}
+[17Jan2025 21:15:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
+[17Jan2025 21:15:06.978] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[17Jan2025 21:15:07.410] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1389, y=-22, z=481}
+[17Jan2025 21:15:13.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:15:16.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 258.500000, 27.500000, -1068.500000]
+[17Jan2025 21:15:17.245] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1606, y=1, z=528}
+[17Jan2025 21:15:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Ferj2202]
+[17Jan2025 21:16:10.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.05642285330398522,34.0,0.8572782647718213
+[17Jan2025 21:16:11.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 0.030708539344971086,34.0,1.0363449572264471
+[17Jan2025 21:16:19.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Warden:W:244:63:-1053:9:false:0:Internal-overworld-waypoints
+[17Jan2025 21:16:24.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[17Jan2025 21:16:38.862] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1984, y=-28, z=461}
+[17Jan2025 21:16:39.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 0.22889198147393586,-32.799999952316284,-0.22889502131079098
+[17Jan2025 21:16:52.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.15382638014855843,34.0,0.8631425720927837
+[17Jan2025 21:16:55.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 0.18156835304290553,34.0,1.4746053444202971
+[17Jan2025 21:17:01.134] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:17:01.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:17:01.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:17:01.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:17:15.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.07886394710857303,34.0,0.18663699351918694
+[17Jan2025 21:17:18.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 2.2886291484062724,-32.799999952316284,-2.2886321882431275
+[17Jan2025 21:17:20.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.02952491113470046,33.67069594835276,1.8968367039326495
+[17Jan2025 21:17:21.003] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2095, y=-25, z=724}
+[17Jan2025 21:17:21.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 was slain by Sea Serpent
+[17Jan2025 21:17:21.062] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
+[17Jan2025 21:17:21.403] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2111, y=-53, z=824}
+[17Jan2025 21:17:27.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:17:27.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[17Jan2025 21:17:27.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 0.10425748007378388,33.00449586457225,1.2470886197331765
+[17Jan2025 21:17:30.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 250.500000, 61.500000, -1051.500000]
+[17Jan2025 21:17:33.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17Jan2025 21:17:47.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Sea? Not a Problem]
+[17Jan2025 21:17:54.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
+[17Jan2025 21:18:01.494] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2205, y=-21, z=777}
+[17Jan2025 21:18:01.494] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2206, y=-21, z=777}
+[17Jan2025 21:18:09.802] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2236, y=-18, z=763}
+[17Jan2025 21:18:09.802] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2238, y=-18, z=763}
+[17Jan2025 21:18:14.348] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2251, y=-41, z=627}
+[17Jan2025 21:18:14.348] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2250, y=-41, z=627}
+[17Jan2025 21:18:21.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11913ms or 238 ticks behind
