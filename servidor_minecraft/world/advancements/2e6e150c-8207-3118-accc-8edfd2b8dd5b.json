@@ -18719,6 +18719,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-01-18 01:24:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-01-18 01:11:46 +0000"

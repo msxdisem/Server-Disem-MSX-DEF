@@ -2285,3 +2285,54 @@
 [18Jan2025 01:15:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
 [18Jan2025 01:16:43.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=607, y=64, z=-2730} BlockPos{x=610, y=80, z=-379}
 [18Jan2025 01:16:58.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[18Jan2025 01:18:04.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 590.500000, -6.500000, -423.500000]
+[18Jan2025 01:18:16.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto fell from a high place
+[18Jan2025 01:18:16.693] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[18Jan2025 01:18:18.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
+[18Jan2025 01:18:22.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 597.500000, 83.500000, -429.500000]
+[18Jan2025 01:18:24.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=610, y=77, z=-354} BlockPos{x=610, y=78, z=-354}
+[18Jan2025 01:18:29.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[18Jan2025 01:18:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
+[18Jan2025 01:19:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[18Jan2025 01:20:37.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[18Jan2025 01:20:55.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[18Jan2025 01:20:58.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Liraanto]
+[18Jan2025 01:25:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 676.500000, 117.500000, -340.500000]
+[18Jan2025 01:25:33.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[18Jan2025 01:29:40.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[18Jan2025 01:31:15.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eguaro moved wrongly!
+[18Jan2025 01:31:40.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto fell from a high place
+[18Jan2025 01:31:40.127] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[18Jan2025 01:31:49.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 584.500000, 137.500000, -463.500000]
+[18Jan2025 01:32:46.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eguaro experienced kinetic energy
+[18Jan2025 01:32:46.334] [Server thread/INFO] [tombstone/]: The player Eguaro has successfully been saved
+[18Jan2025 01:32:50.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[18Jan2025 01:32:51.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 390.500000, 67.500000, -468.500000]
+[18Jan2025 01:33:49.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[18Jan2025 01:34:20.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.090] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:34:21.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=379, y=57, z=-312} BlockPos{x=378, y=56, z=-312}
+[18Jan2025 01:35:10.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[18Jan2025 01:35:28.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 356.500000, 66.500000, -303.500000]
+[18Jan2025 01:35:36.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Eguaro]
+[18Jan2025 01:36:26.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[18Jan2025 01:37:16.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferj2202[/100.68.88.96:57123] logged in with entity id 339601 at (675.6808668507689, 117.0, -343.00260887633317)
+[18Jan2025 01:37:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 joined the game
+[18Jan2025 01:37:16.927] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[18Jan2025 01:37:16.927] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[18Jan2025 01:37:16.927] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[18Jan2025 01:37:16.932] [Server thread/INFO] [Jade/]: Syncing config to Ferj2202 (e6c88b6f-0d3a-32cd-ad32-b48cbc67b708)
+[18Jan2025 01:37:17.442] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] Ferj2202: protocol version: 2.0
+[18Jan2025 01:37:32.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to STRANJO]
+[18Jan2025 01:37:39.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[18Jan2025 01:37:41.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 fell from a high place
+[18Jan2025 01:37:41.792] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved

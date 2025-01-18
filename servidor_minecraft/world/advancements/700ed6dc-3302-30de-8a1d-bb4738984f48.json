@@ -110,6 +110,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-01-15 02:51:14 +0000",
+      "minecraft:sunflower_plains": "2025-01-18 01:33:49 +0000",
       "minecraft:birch_forest": "2025-01-14 00:18:03 +0000",
       "minecraft:beach": "2025-01-13 23:11:03 +0000",
       "minecraft:sparse_jungle": "2025-01-14 00:26:11 +0000",
@@ -10235,9 +10236,10 @@
   },
   "iceandfire:recipes/misc/chain_sticky": {
     "criteria": {
-      "has_item": "2025-01-15 03:14:30 +0000"
+      "has_item": "2025-01-15 03:14:30 +0000",
+      "has_the_recipe": "2025-01-18 01:28:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
@@ -11234,6 +11236,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-18 01:25:56 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_wood": {
     "criteria": {
       "has_log": "2025-01-18 00:45:21 +0000"
@@ -11250,6 +11258,18 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-18 01:05:18 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-01-18 01:25:56 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-01-18 01:25:56 +0000"
     },
     "done": false
   },
@@ -11304,6 +11324,12 @@
   "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-01-18 01:25:56 +0000"
     },
     "done": false
   },
