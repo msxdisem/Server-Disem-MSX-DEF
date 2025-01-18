@@ -11216,6 +11216,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-18 01:05:18 +0000"
+    },
+    "done": false
+  },
   "crystalcraft_unlimited_java:etherial_discoveries": {
     "criteria": {
       "etherial_discoveries_0": "2025-01-18 00:35:40 +0000"
@@ -11241,6 +11247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-18 01:05:18 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-18 00:45:28 +0000"
@@ -11262,6 +11274,12 @@
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-18 01:05:18 +0000"
     },
     "done": false
   },
@@ -11304,6 +11322,18 @@
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-18 01:05:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-18 01:05:18 +0000"
     },
     "done": false
   },
