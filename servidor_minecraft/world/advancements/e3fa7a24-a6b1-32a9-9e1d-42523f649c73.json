@@ -13863,5 +13863,23 @@
     },
     "done": false
   },
+  "l2complements:recipes/diffusion/diffusion/lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-01-18 00:20:25 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-01-18 00:20:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-18 00:20:25 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
