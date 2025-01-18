@@ -135,6 +135,7 @@
       "shrubland": "2025-01-15 03:02:49 +0000",
       "rocky_shrubland": "2025-01-13 23:07:36 +0000",
       "scrubland": "2025-01-13 23:13:50 +0000",
+      "erupting_inferno": "2025-01-17 23:59:40 +0000",
       "floodplain": "2025-01-14 00:17:39 +0000",
       "highland": "2025-01-14 02:58:47 +0000",
       "jacaranda_glade": "2025-01-13 23:04:27 +0000",
@@ -165,6 +166,7 @@
       "shrubland": "2025-01-15 03:02:49 +0000",
       "rocky_shrubland": "2025-01-13 23:07:36 +0000",
       "scrubland": "2025-01-13 23:13:50 +0000",
+      "erupting_inferno": "2025-01-17 23:59:40 +0000",
       "floodplain": "2025-01-14 00:17:39 +0000",
       "highland": "2025-01-14 02:58:47 +0000",
       "jacaranda_glade": "2025-01-13 23:04:27 +0000",
@@ -4761,6 +4763,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_nether": "2025-01-17 23:59:58 +0000",
       "in_mineshaft_savanna": "2025-01-14 00:32:16 +0000"
     },
     "done": false
@@ -10393,9 +10396,284 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-17 21:36:09 +0000"
+    },
+    "done": false
+  },
+  "simplyswords:molten_edge": {
+    "criteria": {
+      "requirement": "2025-01-17 21:39:11 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:shadowsting": {
+    "criteria": {
+      "requirement": "2025-01-17 21:46:33 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/enter_otherside": {
     "criteria": {
       "otherside": "2025-01-17 21:58:52 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_temple": {
+    "criteria": {
+      "ancient_temple": "2025-01-17 21:58:52 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-01-17 22:04:09 +0000",
+      "deeplands": "2025-01-17 21:58:52 +0000",
+      "blooming_caverns": "2025-01-17 21:59:20 +0000",
+      "echoing_forest": "2025-01-17 22:05:48 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-01-17 22:11:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-17 22:12:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-17 22:12:15 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-17 22:12:15 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_soul_crystal": "2025-01-17 22:13:22 +0000",
+      "has_heart_of_the_deep": "2025-01-17 22:17:23 +0000",
+      "has_sculk_bone": "2025-01-17 22:15:08 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/building_blocks/soundproof_glass": {
+    "criteria": {
+      "has_soul_dust": "2025-01-17 22:14:24 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-01-17 22:17:11 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/renew/reinforced_deepslate": {
+    "criteria": {
+      "has_warden_bone_shard": "2025-01-17 22:17:12 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/enchantments/enchantments/claw_shielding": {
+    "criteria": {
+      "has_warden_bone_shard": "2025-01-17 22:17:12 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-01-17 22:17:12 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/sculkium_ingot": {
+    "criteria": {
+      "has_warden_bone_shard": "2025-01-17 22:17:12 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-01-17 22:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-17 22:21:29 +0000"
+    },
+    "done": false
+  },
+  "crystalcraft_unlimited_java:celestial_hot_stuff": {
+    "criteria": {
+      "celestial_hot_stuff_0": "2025-01-17 22:33:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-01-17 22:33:14 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-01-17 22:33:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-17 22:41:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-17 22:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-17 22:41:21 +0000"
     },
     "done": true
   },
@@ -10405,27 +10683,63 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_end_stone": "2025-01-17 23:09:26 +0000"
+      "in_better_fortress": "2025-01-17 22:41:23 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
-      "has_ancient_debris": "2025-01-17 22:54:01 +0000"
+      "has_quartz": "2025-01-17 22:42:33 +0000"
     },
     "done": false
   },
-  "supplementaries:recipes/netherite_trapdoor": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
+      "has_quartz": "2025-01-17 22:42:33 +0000"
     },
     "done": false
   },
-  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+  "mcwwindows:recipes/quartz": {
     "criteria": {
-      "has_gold_block": "2025-01-17 22:46:42 +0000"
+      "has_wood": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-17 22:42:33 +0000"
     },
     "done": false
   },
@@ -10447,27 +10761,75 @@
     },
     "done": false
   },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
-    "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
-      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
-      "has_bone_block": "2025-01-17 21:36:09 +0000"
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2025-01-17 22:46:42 +0000"
     },
     "done": false
   },
@@ -10489,54 +10851,6 @@
     },
     "done": false
   },
-  "l2complements:recipes/misc/vanilla/renew/reinforced_deepslate": {
-    "criteria": {
-      "has_warden_bone_shard": "2025-01-17 22:17:12 +0000"
-    },
-    "done": false
-  },
-  "l2weaponry:recipes/enchantments/enchantments/claw_shielding": {
-    "criteria": {
-      "has_warden_bone_shard": "2025-01-17 22:17:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tiles_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/polished_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_wood": "2025-01-17 22:42:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-01-17 23:09:26 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
@@ -10549,81 +10863,9 @@
     },
     "done": false
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-01-17 23:09:06 +0000"
-    },
-    "done": true
-  },
-  "crystalcraft_unlimited_java:celestial_hot_stuff": {
-    "criteria": {
-      "celestial_hot_stuff_0": "2025-01-17 22:33:07 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2025-01-17 22:58:31 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-01-17 22:41:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-01-17 23:09:26 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/redstone/reinforced_observer": {
-    "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_bricks_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/soundproof_glass": {
-    "criteria": {
-      "has_soul_dust": "2025-01-17 22:14:24 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_brick_slab_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2025-01-17 22:20:33 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
     },
     "done": false
   },
@@ -10633,75 +10875,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2025-01-17 22:58:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2025-01-17 22:17:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_stairs": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-01-17 23:09:26 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
     },
     "done": false
   },
@@ -10717,18 +10893,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-01-17 22:21:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
@@ -10741,152 +10905,15 @@
     },
     "done": false
   },
-  "deeperdarker:main/find_ancient_temple": {
-    "criteria": {
-      "ancient_temple": "2025-01-17 21:58:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-17 22:12:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-01-17 22:41:21 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/purpur_altar": {
-    "criteria": {
-      "has_end_stone": "2025-01-17 23:09:26 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
     },
     "done": false
   },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2025-01-17 22:33:14 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_end_stone": "2025-01-17 23:09:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-01-17 22:54:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_wall_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-01-17 22:59:31 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/netherite_boots_repairing": {
-    "criteria": {
-      "has_netherite_boots": "2025-01-17 22:59:29 +0000"
-    },
-    "done": false
-  },
-  "simplyswords:shadowsting": {
-    "criteria": {
-      "requirement": "2025-01-17 21:46:33 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/polished_sculk_stone_slab_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:main/explore_otherside": {
-    "criteria": {
-      "overcast_columns": "2025-01-17 22:04:09 +0000",
-      "deeplands": "2025-01-17 21:58:52 +0000",
-      "blooming_caverns": "2025-01-17 21:59:20 +0000",
-      "echoing_forest": "2025-01-17 22:05:48 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_brick_stairs_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_soul_crystal": "2025-01-17 22:13:22 +0000",
-      "has_heart_of_the_deep": "2025-01-17 22:17:23 +0000",
-      "has_sculk_bone": "2025-01-17 22:15:08 +0000"
-    },
-    "done": false
-  },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2025-01-17 22:59:31 +0000"
     },
     "done": false
   },
@@ -10902,81 +10929,9 @@
     },
     "done": false
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2025-01-17 22:41:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_stairs_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-17 22:12:15 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2025-01-17 22:33:34 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/chiseled_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2025-01-17 22:17:12 +0000"
-    },
-    "done": false
-  },
-  "simplyswords:molten_edge": {
-    "criteria": {
-      "requirement": "2025-01-17 21:39:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-01-17 22:54:01 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/polished_sculk_stone_stairs_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/polished_sculk_stone": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
     },
     "done": false
   },
@@ -10986,75 +10941,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/polished_sculk_stone_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_brick_wall_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-01-17 22:11:59 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-01-17 22:41:21 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/cobbled_sculk_stone_wall_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "crystalcraft_unlimited_java:cyber_crystal_advancement": {
-    "criteria": {
-      "cyber_crystal_advancement_0": "2025-01-17 23:17:00 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/building_blocks/sculk_stone_tile_slab_from_cobbled_sculk_stone_stonecutting": {
-    "criteria": {
-      "has_cobbled_sculk_stone": "2025-01-17 22:04:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
     "criteria": {
       "has_gold_block": "2025-01-17 22:46:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-01-17 23:09:06 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lapis_bricks": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-17 22:12:15 +0000"
     },
     "done": false
   },
@@ -11064,21 +10953,261 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-17 22:54:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-17 22:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-17 22:54:01 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-17 22:57:14 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-01-17 22:58:31 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-01-17 22:58:50 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-01-17 22:59:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-17 22:59:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-01-17 22:59:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-17 23:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-17 23:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-01-17 23:09:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-17 23:09:26 +0000"
     },
     "done": false
   },
-  "l2complements:recipes/misc/craft/sculkium_ingot": {
+  "crystalcraft_unlimited_java:cyber_crystal_advancement": {
     "criteria": {
-      "has_warden_bone_shard": "2025-01-17 22:17:12 +0000"
+      "cyber_crystal_advancement_0": "2025-01-17 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-18 00:00:18 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_polished_blackstone": "2025-01-17 22:44:01 +0000"
+      "has_rail": "2025-01-18 00:00:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-18 00:00:18 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:recipes/decayed_workbench": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:01:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-01-18 00:02:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-01-18 00:02:40 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-01-18 00:02:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-18 00:13:46 +0000"
     },
     "done": false
   },
