@@ -1753,6 +1753,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_dark_oak_planks": "2025-01-13 23:22:25 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -1897,6 +1898,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_dark_oak_planks": "2025-01-13 23:22:25 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
@@ -2040,6 +2042,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_dark_oak_planks": "2025-01-13 23:22:25 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
@@ -2196,6 +2199,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_dark_oak_planks": "2025-01-13 23:22:25 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
@@ -2434,6 +2438,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_spruce_planks": "2025-01-13 23:22:30 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
@@ -2469,6 +2474,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_spruce_planks": "2025-01-13 23:22:30 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -2508,6 +2514,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_spruce_planks": "2025-01-13 23:22:30 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
@@ -2573,6 +2580,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_spruce_planks": "2025-01-13 23:22:30 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
@@ -5088,12 +5096,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5101,6 +5111,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_toilet": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5108,6 +5119,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5128,6 +5140,7 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_jungle_planks": "2025-01-14 02:26:32 +0000",
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5153,6 +5166,7 @@
   "refurbished_furniture:recipes/misc/constructing/oak_bath": {
     "criteria": {
       "has_oak_planks": "2025-01-14 02:26:30 +0000",
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5167,6 +5181,7 @@
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-01-14 02:26:30 +0000",
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5174,6 +5189,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5188,6 +5204,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5202,6 +5219,7 @@
   "refurbished_furniture:recipes/misc/constructing/oak_toilet": {
     "criteria": {
       "has_oak_planks": "2025-01-14 02:26:30 +0000",
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5209,6 +5227,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_bath": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5216,6 +5235,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5223,6 +5243,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5230,6 +5251,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
     "done": false
@@ -5255,6 +5277,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5268,6 +5291,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5275,6 +5299,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5282,6 +5307,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
     "done": false
@@ -5289,12 +5315,14 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_jungle_planks": "2025-01-14 02:26:32 +0000",
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_basin": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5302,6 +5330,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5309,6 +5338,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5317,6 +5347,7 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_oak_planks": "2025-01-14 02:26:30 +0000",
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
     "done": false
@@ -5324,6 +5355,7 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_jungle_planks": "2025-01-14 02:26:32 +0000",
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5331,6 +5363,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5338,6 +5371,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5345,6 +5379,7 @@
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5352,12 +5387,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
     "done": false
@@ -5374,6 +5411,7 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
     "criteria": {
       "has_jungle_planks": "2025-01-14 02:26:32 +0000",
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -5381,12 +5419,14 @@
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
     "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000",
       "has_iron_ingot": "2025-01-14 02:16:31 +0000",
       "has_copper_ingot": "2025-01-14 00:49:37 +0000"
     },
@@ -10740,9 +10780,10 @@
   },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "has_quartz": "2025-01-17 22:42:33 +0000"
+      "has_quartz": "2025-01-17 22:42:33 +0000",
+      "has_the_recipe": "2025-01-18 01:56:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
@@ -11212,6 +11253,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-18 02:06:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-01-18 01:02:02 +0000"
@@ -11255,15 +11302,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-18 01:05:18 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/deathworm_white_helmet": {
     "criteria": {
       "has_item": "2025-01-18 01:25:56 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
     },
     "done": false
   },
@@ -11279,6 +11344,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_planks": "2025-01-18 00:45:28 +0000"
@@ -11291,9 +11368,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
     },
     "done": false
   },
@@ -11345,9 +11440,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/nether_quartz_ore": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
     },
     "done": false
   },
@@ -11360,6 +11467,24 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-18 01:05:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-01-18 01:56:58 +0000"
     },
     "done": false
   },

@@ -13431,6 +13431,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-18 02:06:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-01-18 01:41:13 +0000"
