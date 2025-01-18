@@ -10247,7 +10247,8 @@
   },
   "supplementaries:recipes/cog_block": {
     "criteria": {
-      "has_copper_ingot": "2024-12-28 22:42:16 +0000"
+      "has_copper_ingot": "2024-12-28 22:42:16 +0000",
+      "has_redstone_block": "2025-01-18 00:31:25 +0000"
     },
     "done": false
   },
@@ -13863,6 +13864,24 @@
     },
     "done": false
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-01-18 00:31:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-18 00:31:25 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/redstone_ore": {
+    "criteria": {
+      "has_redstone_block": "2025-01-18 00:31:25 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/diffusion/diffusion/lapis_ore": {
     "criteria": {
       "has_lapis_block": "2025-01-18 00:20:25 +0000"
@@ -13872,6 +13891,12 @@
   "l2complements:recipes/diffusion/diffusion/deepslate_lapis_ore": {
     "criteria": {
       "has_lapis_block": "2025-01-18 00:20:25 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_redstone_ore": {
+    "criteria": {
+      "has_redstone_block": "2025-01-18 00:31:25 +0000"
     },
     "done": false
   },
