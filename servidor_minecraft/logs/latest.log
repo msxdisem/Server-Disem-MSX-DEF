@@ -2444,3 +2444,87 @@
 [18Jan2025 02:08:35.208] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [18Jan2025 02:08:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 673.500000, -31.500000, -234.500000]
 [18Jan2025 02:08:46.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4218ms or 84 ticks behind
+[18Jan2025 02:09:10.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8875ms or 177 ticks behind
+[18Jan2025 02:09:21.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1258.500000, -50.500000, -931.500000]
+[18Jan2025 02:09:30.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[18Jan2025 02:09:49.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[18Jan2025 02:10:04.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 586.500000, 142.500000, -446.500000]
+[18Jan2025 02:10:09.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
+[18Jan2025 02:10:17.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1283, y=-50, z=-899} BlockPos{x=1282, y=-50, z=-899}
+[18Jan2025 02:10:22.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1285, y=-52, z=-896} BlockPos{x=1286, y=-52, z=-895}
+[18Jan2025 02:11:16.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1272, y=-45, z=-898} BlockPos{x=1272, y=-46, z=-898}
+[18Jan2025 02:11:16.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1272, y=-45, z=-898} BlockPos{x=1272, y=-46, z=-898}
+[18Jan2025 02:13:22.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1282, y=-52, z=-936} BlockPos{x=1283, y=-52, z=-935}
+[18Jan2025 02:13:22.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1282, y=-52, z=-936} BlockPos{x=1283, y=-52, z=-935}
+[18Jan2025 02:13:22.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1282, y=-52, z=-936} BlockPos{x=1283, y=-52, z=-935}
+[18Jan2025 02:13:22.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1282, y=-52, z=-936} BlockPos{x=1283, y=-52, z=-935}
+[18Jan2025 02:13:22.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1282, y=-52, z=-936} BlockPos{x=1283, y=-52, z=-935}
+[18Jan2025 02:13:26.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1284, y=-51, z=-932} BlockPos{x=1285, y=-51, z=-932}
+[18Jan2025 02:13:26.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1284, y=-51, z=-932} BlockPos{x=1285, y=-51, z=-932}
+[18Jan2025 02:13:26.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1284, y=-51, z=-932} BlockPos{x=1285, y=-51, z=-932}
+[18Jan2025 02:14:10.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1231, y=-52, z=-989} BlockPos{x=1231, y=-52, z=-988}
+[18Jan2025 02:14:10.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1230, y=-53, z=-989} BlockPos{x=1230, y=-52, z=-990}
+[18Jan2025 02:14:11.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1230, y=-53, z=-989} BlockPos{x=1230, y=-52, z=-990}
+[18Jan2025 02:14:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to Ferj2202]
+[18Jan2025 02:14:29.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to 53.500000, 66.500000, 277.500000]
+[18Jan2025 02:14:29.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[18Jan2025 02:14:29.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[18Jan2025 02:14:29.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[18Jan2025 02:14:29.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[18Jan2025 02:14:48.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18Jan2025 02:14:57.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 1327.500000, -50.500000, -915.500000]
+[18Jan2025 02:15:05.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Eguaro: Teleported Eguaro to -143.500000, 47.500000, -73.500000]
+[18Jan2025 02:15:07.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4911ms or 98 ticks behind
+[18Jan2025 02:15:17.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1337, y=-52, z=-920} BlockPos{x=1337, y=-52, z=-919}
+[18Jan2025 02:15:17.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1337, y=-52, z=-921} BlockPos{x=1337, y=-52, z=-919}
+[18Jan2025 02:15:19.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1337, y=-52, z=-921} BlockPos{x=1336, y=-53, z=-921}
+[18Jan2025 02:15:39.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to STRANJO]
+[18Jan2025 02:15:39.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 4.165271565997159,-4.0,-8.41503598211142
+[18Jan2025 02:15:48.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! -5.538317958851962,12.99912419118894,10.650362754826062
+[18Jan2025 02:16:16.847] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[18Jan2025 02:16:16.847] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[18Jan2025 02:16:17.922] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 378837cc-b36f-4022-822a-d71988db87ee
+[18Jan2025 02:16:18.021] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 781e15d2-2a4f-4ab6-b105-e1d197733a38
+[18Jan2025 02:16:18.022] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Server-Disem-MSX-DEF/servidor_minecraft/./crash-reports/crash-2025-01-18_02.16.17-server.txt
+[18Jan2025 02:16:18.367] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[18Jan2025 02:16:18.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jan2025 02:16:18.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jan2025 02:16:18.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Server closed
+[18Jan2025 02:16:18.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[18Jan2025 02:16:18.472] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[18Jan2025 02:16:18.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Server closed
+[18Jan2025 02:16:18.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
+[18Jan2025 02:16:18.503] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[18Jan2025 02:16:18.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jan2025 02:16:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jan2025 02:16:19.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18Jan2025 02:16:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[18Jan2025 02:16:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[18Jan2025 02:16:19.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[18Jan2025 02:16:19.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[18Jan2025 02:16:19.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[18Jan2025 02:16:19.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[18Jan2025 02:16:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[18Jan2025 02:16:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[18Jan2025 02:16:19.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jan2025 02:16:20.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jan2025 02:16:20.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[18Jan2025 02:16:20.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[18Jan2025 02:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jan2025 02:16:22.907] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jan2025 02:16:22.909] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[18Jan2025 02:16:22.912] [Server thread/INFO] [Framework/]: Finished unloading server configs
