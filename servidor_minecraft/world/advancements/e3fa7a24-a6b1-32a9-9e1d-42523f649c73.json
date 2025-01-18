@@ -13864,15 +13864,51 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 00:52:18 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-01-18 00:31:25 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 00:52:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 00:52:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-01-18 00:31:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 00:52:18 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 00:52:18 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 00:52:18 +0000"
     },
     "done": false
   },
@@ -13903,6 +13939,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-01-18 00:20:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 00:52:18 +0000"
     },
     "done": false
   },

@@ -4682,15 +4682,17 @@
   },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-14 00:23:06 +0000"
+      "has_smithing_trim_template": "2025-01-14 00:23:06 +0000",
+      "has_the_recipe": "2025-01-18 01:02:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-01-14 00:23:06 +0000"
+      "has_vex_armor_trim_smithing_template": "2025-01-14 00:23:06 +0000",
+      "has_the_recipe": "2025-01-18 01:01:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
@@ -11208,11 +11210,108 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-01-18 01:02:02 +0000"
+    },
+    "done": false
+  },
   "crystalcraft_unlimited_java:etherial_discoveries": {
     "criteria": {
       "etherial_discoveries_0": "2025-01-18 00:35:40 +0000"
     },
     "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-01-18 00:45:21 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-01-18 00:45:21 +0000",
+      "has_the_recipe": "2025-01-18 00:45:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-18 01:02:17 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-01-18 01:02:02 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-18 01:02:17 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-18 00:45:28 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
